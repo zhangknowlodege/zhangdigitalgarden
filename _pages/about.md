@@ -6,7 +6,17 @@ permalink: /about
 ------
 # *This is Zhangty's personal digital garden.*
 
-## The reason  that  I created this website:
+-----
+```
+	- 📬: tyzhang9804@gmail.com
+	- 📞:13626190241
+	- 🤷‍♂️我是谁？
+	
+```
+
+-----
+
+# *The reason  that  I created this website:*
 
 ```
  1. Show my work
