@@ -7,9 +7,9 @@ permalink: /
 
 #### Hi,  welcome to zhangty's digital garden！
 
-	 			🌱 → 🌴
+#####				🌱 → 🌴
 	 			
-   🔍: https://zhangty.netlify.app
+#####	  🔍: https://zhangty.netlify.app
 
 -----
 - ## 简介
