@@ -1,0 +1,3 @@
+- 教程
+	- [可实时显示按键的 KeyCastr，简直是录屏神器！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/521713673)
+	- [GitHub - keycastr/keycastr: KeyCastr, an open-source keystroke visualizer](https://github.com/keycastr/keycastr)

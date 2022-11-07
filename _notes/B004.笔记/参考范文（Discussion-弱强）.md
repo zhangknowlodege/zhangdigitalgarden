@@ -1,0 +1,82 @@
+- ## 第1题
+	- 题目
+		- Task2：
+			- Some people believe famous people's support towards international aid organizations draws the attention to problems, while others think celebrities make the problems seem less important. Discuss both views and give your opinion.
+	- 判断：（弱强）
+	- 范文
+		- It is quite common that many celebrities, like movie stars and famous athletes, participate in activities held by international aid organizations. 
+			- Opinions are divided on how their support affects these activities.
+				- I believe that famous people’s involvement in charitable events can definitely attract more attention and provide more help to the problems.
+		- On the one hand, there has been a concern that the importance of charitable activities may be weakened with the presence of many famous people. 
+			- This is because fans of the movie stars or the NBA legends may pay more attention to how their idols dress themselves or whether they are in the center of the stage. 
+				- What is worse, tabloids lead readers to the gossips or scandals of the celebrities instead of how much they contribute to helping people in need.
+					- This explains why many people worry that famous people may have a negative effect on the charitable activity they participate in.
+		- On the other hand, advocates of celebrities’ support towards worldwide pressing issues believe that they have such significant influence on millions of people following their accounts on social media, such as Twitter or Facebook. 
+			- When these famous people deliver a speech in a fundraising gala or make a donation to an organization towards assisting needy people in third world countries, their followers may contribute their own effort to combating the same problems. 
+				- For example, in 2015, hundreds of sports stars and Nobel Prize winners who took part in a series of activities named the Ice Bucket Challenge successfully promoted awareness of the disease ALS and encouraged donations to research.
+		- Personally, my view is that while the attention of the public may be drawn from the event itself to the stars they are interested in, this usually lasts for a short period of time. 
+			- Support from these famous people, in the long term, will play a significant role in arousing people's awareness towards the issues that need to be addressed.
+- ## 第2题
+	- 题目
+		- Task 2:
+			- Some people believe that teaching children at home is best for a child’s development while others think that it is important for children to go to school.  Discuss the advantages of both methods and give your own opinion.
+		- （弱强）
+		- 范文
+			- The argument over whether learning at home or at school is better for children has not been settled yet.
+				- Whereas home education offers better protection with individual learning and opportunities for families to bond, schools have a superior range of material and human resources. 
+					- Ultimately, I think the school experience is best for children.
+			- There are several advantages for children who learn at home. 
+				- Firstly, they can spend more time with their parents and siblings. Many social problems are associated with families not spending enough quality time together. Teaching children at home also provides them with an individualised learning environment. Instruction is custom designed and moves at the child’s own pace and in accordance with his or her individual learning style. 
+				- Finally, home schooling protects children from bullies and others who might be a bad influence. 
+					- 三个点，各有解释，但还是建议不写这么多。
+			- On the other hand, the school environment also offers advantages for children. 
+				- Schools encourage children to socialise with their peers and learn how to cope with gossip, bullying and peer pressure. 
+					- In addition, children will receive better tuition across a range of disciplines, as schools have teachers who are trained in special subjects. 
+						- What is more, schools provide better access to physical resources such as sports equipment, musical instruments and library books.
+							- 三个点，各有解释，但还是建议不写这么多。
+			- I believe that children are better off in a school environment. 
+				- Although family time and individual learning are important, the range of expertise and resources that schools offer cannot be matched in the home. - 
+					- School environments may present difficult social situations, but so too does the real world and children must learn to navigate these on their own.
+- ## 第一题：C14 T2
+	- 题目
+		- Some people say that the main environment problem of our time is the loss of particular species of plants and animals. Others say there are more important environment problems.Discuss both these views and give your own opinion.
+	- （弱强）
+	- 范文
+		-  Some people consider that the loss of individual species of plants and animals is the main environmental problem of our time. Attempts to preserve rare or dying species are carried out in zoos or other specialist专业的 plant and animal facilities场所, through breeding programs, preservation orders保护令 and other forms of protection and there was genuine sadness among many when the last surviving white rhino died earlier this year.
+		- Survival of the fittest适者生存 is nature' s way of ruthlessly allowing weaker specimens物种 to die out, although mankind has also contributed to falling animal numbers through hunting and poaching偷猎. However, whether saving individual species should be the main focus of environmental protection is debatable. Climate change and excessive use of plastic are just two other major problems that deserve our attention.
+		- The evidence of climate change is there for us all to see : rising sea levels and associated flooding with the loss of homes at low land levels are becoming more frequent. Many countries and island communities are now calling for urgent action to delay, halt or even reverse the process, although if we believe the experts, reversal is impossible. Habitable areas are gradually shrinking, often for some of the poorest groups of people but there seems to be little obvious action taking place. If the major contributors to climate change will not support the reduction of greenhouse gases, there is little hope for the future.
+		- Naturalists have also begun to expose揭露 the serious problem arising from discarded plastic waste. Birds and animals can die gruesome deaths through being trapped or caught up in plastic bags or ropes, while the long process required for these plastics to decay means that they remain a threat for many years to come. Worse, there is now beginning to be evidence of sea creatures ingesting吞食 smaller globules of disintegrating分解的 plastic, which harms them and all the other creatures in their particular food chain.
+		- The loss of particular species, both flora and fauna动植物, is a cause for regret令人遗憾, but I do not agree that they are the most important environmental problems these days. If climate change and damage from plastic continue, there will be less land and less food for everyone including plants and animals.
+- ## 第二题：C9 T3
+	- 题目
+		- Some people say that the best way to improve public health is by increasing the number of sports facilities. Others, however, say that this would have little effect on public health and that other measures are required. Discuss both these views and give your own opinion.
+	- 弱强
+	- 范文
+		- A problem of modern societies is the declining level of health in the general population, with conflicting views on how to tackle this worrying trend. One possible solution is to provide more sports facilities to encourage a more active lifestyle.
+		- Advocates of this believe that today’s sedentary lifestyle and stressful working conditions mean that physical activity is no longer part of either our work or our leisure time. If there were easy-to-reach local sports that could be offered would cater for all ages, levels of fitness and interests: those with painful memories of PE at school might be happier in the swimming pool than on the football pitch.
+		- However, there may be better ways of tackling this problem. Interest in sport is not universal, and additional facilities might simply attract the already fit, not those who most need them. Physical activity could be encouraged relatively cheaply, for example by installing exercise equipment in parks, as my local council has done. This has the added benefit that parents and children often use them together just for fun, which develops a positive attitude to exercise at an early age.As well as physical activity, high tax penalties could be imposed on high-fat food products, tobacco and alcohol, as excessive consumption of any of these contributes to poor health. Even improving public transport would help: it takes longer to walk to the bus stop than to the car.
+		- In my opinion, focusing on sports facilities is too narrow an approach and would not have the desired results. People should be encouraged not only to be more physically active but also adopt a healthier lifestyle in general.
+- ## 第三题： C8 T1
+	- 题目
+		- Some people think that parents should teach children how to be good members of society. Others, however, believe that school is the place to learn this.Discuss both these views and give your own opinion.
+	- 范文
+		- A child’s education has never been about learning information and basic skills only. It has always included teaching the next generation how to be good members of society. Therefore, this cannot be the responsibility of the parents alone.
+		- In order to be a good member of any society the individual must respect and obey the rules of their community and share their values. Educating children to understand the need to obey rules and respect others always begins in the home and is widely thought to be the responsibility of parents. They will certainly be the first to help children learn what is important in life, how they are expected to behave and what role they will play in their world.
+		- However, learning to understand and share the value system of a whole society cannot be achieved just in the home. Once a child goes to school, they are entering a wider community where teachers and peers will have just as much influence as their parents do at home. At school, children will experience working and living with people from a whole variety of backgrounds from the wider society. This experience should teach them how to co-operate with each other and how to contribute to the life of their community.
+		- But to be a valuable member of any community is not like learning a simple skill. It is something that an individual goes on learning throughout life and it is the responsibility of every member of a society to take responsibility for helping the younger generation to become active and able members of that society.
+- ## 第四题：C7T1
+	- 题目：
+		- It is generally believed that some people are born with certain talents, for instance for sport or music, and others are not. However, it is sometimes claimed that any child can be taught to become a good sports person or musician. Discuss both these views and give your own opinion.
+		- 范文
+			- As a result of constant media attention, sports professionals in my country have become stars and celebrities, and those at the top are paid huge salaries. Just like movie stars, they live extravagant lifestyles with huge houses and cars.
+			- Many people find their rewards unfair, especially when comparing these super salaries with those of top surgeons or research scientists, or even leading politicians who have the responsibility of governing the country. However, sports salaries are not determined by considering the contribution to society a person makes, or the level of responsibility he or she holds. Instead, they reflect the public popularity of sport in general and the level of public support that successful stars can generate. So the notion of ‘fairness’ is not the issue.
+			- Those who feel that sports stars' salaries are justified might argue that the number of professionals with real talent are very few, and the money is a recognition认可 of the skills and dedication a person needs to be successful. Competition is constant and a player is tested every time they perform in their relatively short career. The pressure from the media is intense and there is little privacy out of the spotlight.
+			- So all of these factors may justify the huge earnings. Personally, I think that the amount of money such sports stars make is more justified than the huge earnings of movie stars, but at the same time, it indicates that our society places more value on sport than on more essential professions and achievements.
+- ## 第五题：C6T4
+	- 题目
+		- Some people prefer to spend their lives doing the same things and avoiding change. Others, however, think that change is always a good thing.Discuss both views and give your own opinion.
+	- 范文
+		- Over the last half century, the pace of change in the life of human beings has increased beyond our wildest expectations. This has been driven by technological and scientific breackthroughs that are changing the whole way we view the world on almost daily basis. This means that change is not always a personal option, but an inescapable fact of life, and we need to constantly adapt to keep pace to it.
+		- Those people who believe they have achieved some security by doing the same, familiar things are living in denial. Even when people believe they are resisting change themselves, they cannot stop the world around them from changing. Sooner or later they will find that the familiar jobs no longer exist, or that the 'safe' patterns of of behavior are no longer appropriate.
+		- However, reaching the conclusion that change is evitable is not the same as assuming that change is always for the better. Unfortunately, it is not always the case that new things are prompted because they have good impacts for the majority of people. A lot of innovations are made with the aim of making money for a few. This is because it is the rich and powerful people in our society who are able to impose changes (such as in working conditions or property developments) that are in their interests. 符合。。的利益】
+		- In conclusion, I would say that change can be stimulating and energizing for individuals when they pursue it themselves, but that all change, including which is imposed on people, does not necessarily have good outcomes.

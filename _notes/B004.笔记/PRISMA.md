@@ -1,0 +1,15 @@
+- 在心理学以及医学研究中，目前使用最为广泛的是 PRISMA 系列报告标准（Preferred Reporting Items for Systematic Reviews and Meta-Analyses），该标准的前身是由医疗卫生领域 专家组成的国际性小组于 1999 年制定并发布的报告标准 QUOROM（Quality of Reporting of  Meta-analyses statement）。 2009 年，小组成员对 QUOROM 进行了修订和总结，加入了对系 统综述的关注，并发布了 PRISMA 系列的第一篇报告标准 PRISMA 声z
+- 在心理学以及医学研究中，目前使用最为广泛的是 PRISMA 系列报告标准（Preferred Reporting Items for Systematic Reviews and Meta-Analyses），该标准的前身是由医疗卫生领域 专家组成的国际性小组于 1999 年制定并发布的报告标准 QUOROM（Quality of Reporting of chinaXiv:201809.00177v9 Meta-analyses statement）。
+- 2009 年，小组成员对 QUOROM 进行了修订和总结，加入了对系 统综述的关注，并发布了 PRISMA 系列的第一篇报告标准 PRISMA 声明。
+	- 该声明包括 7 个 部分；
+	- 27 个条目清单；
+	- 一个四阶段的流程图。
+- PRIMSA 满足一个好的报告标准的三个方面： 
+	- 首先，PRIMSA 标准得到 Centre for Reviews and Dissemination、Cochrane Collaboration、 Council of Science Editors、National Evidence-based Healthcare Collaborating Agency (NECA) 与 World Association of Medical Editors 5 个国际组织与几百种期刊支持；
+	- 其次，PRISMA 能 够对研究者提供切实有效的指导，其不仅涵盖了大部分随机对照试验，而且针对每一个条目， 均有完备与清晰的阐述与解释性文件，并配有具体的例子(Liberati et al., 2009)；
+	- 第三， PRISMA 是许多医学期刊元分析发表的必要条件，被写入期刊的投稿要求中。
+	- 此外，从引用 量上来看，PRISMA 是目前引用最多的标准：自 2009 年发表以来，截止到 2018 年 3 月 15 日搜索，PRISMA 的两篇介绍性文章(Liberati et al., 2009; Moher, Liberati, Tetzlaff, &Altman, 2009)在 Google 学术上的引用量分别为 30384 和 13083 次。
+- 要求
+	- PRISMA 建议在数据库中获取信息至少需要报告数据库名称、平台或 提供者，以及每次搜索开始与结束的日期 (Liberati et al., 2009)
+- 参考资料：
+	- Moher, D., Liberati, A., Tetzlaff, J., Altman, D. G., & PRISMA Group*. (2009). Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. _Annals of internal medicine_, _151_(4), 264-269.

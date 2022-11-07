@@ -1,0 +1,11 @@
+- 一般信息
+	- 关于在医学元分析方面使用较为广泛的是 YORK 大 学 建 立 的 PROSPERO （ International Prospective Register of Ongoing Systematic Reviews.www.crd.york.ac.uk/PROSPERO） 系统综述国际预注册平台，它为研究者们发表方 案和信息共享提供了极大的便利 (Booth et al., 2012)。
+	- 随着方案预注册的便利性的提升，研 究方案的透明性、准确性与完整性也变得极为重要，也出现了专门为预注册而定制的报告标 准 PRISMA-P（Preferred Reporting Items for Systematic Reviews and Meta-Analyses protocols） (Moher et al., 2015)。
+		- PRISMA-P 由 17 个条目组成，用于指导作者如何对元分析/系统综述方 案进行预注册。
+	- 截止 2018 年 8 月，已有 42 本杂志可提供元分析预注册的报告，大部分杂志 来自生物行为科学领域 (Quintana, 2018)。
+	- 在心理学研究中，目前研究者可以在 Open Science Frameworks (OSF , osf.io)上进行预注册。
+	- 遗憾的是目前 OSF 尚未对元分析提供相应的模板。
+- 要不要注册？什么时候注册？
+	- [【Meta分析】Meta分析该不该注册？如何注册？什么时候注册？ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIyMjU2OTczMQ==&mid=2247486070&idx=1&sn=027827e235723a3052898181efd73647&chksm=e82a3e1adf5db70c283d2e7628f9e66307de011f7398e189b0a6525c7bf95772c86858efc71c&scene=21#wechat_redirect)
+- 如何注册？注册前后注意事项
+	-  [【Meta分析】PROSPERO注册详细步骤与示例 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/115021943)

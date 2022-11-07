@@ -1,0 +1,1 @@
+- [Johnny学OB 第12集 - 如何用OB和Pandoc插件，让你制作PPT的速度飞起来。尤其适合制作课件。Obsidian | 黑曜石教程 OB插件教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1u34y1Q7Hd/?vd_source=025a435f75f64171dd9cd96896be80a4)

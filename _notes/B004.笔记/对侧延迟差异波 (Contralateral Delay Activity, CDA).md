@@ -1,0 +1,14 @@
+- # 描述
+- # 任务
+	- Vogel 等人在先后的研究 中发现对侧延迟差异波 (Contralateral Delay Activity, CDA) 可以作为测量视觉工作记忆容量 稳定的神经生理指标 (Vogel & Machizawa, 2004; Vogel, McCollough, & Machizawa, 2005)。
+	- 在变化觉察任务中，屏幕两侧同时呈现刺激，但仅要求被试记住其中一侧刺激，此时对侧脑区 会出现更大的负电波，而用对侧电位 (contralateral activity) 减去同侧电位 (ipsilateral activity) 得到的差异波即为 CDA。
+- # 指标
+	- Vogel 等人的研究证实 CDA 实际上反应了视觉工作记忆的存储容量，CDA 的幅值随着项目数的增加而增加，当记忆项目达到个体视觉工作记忆容量的上限 时，CDA 的幅值也趋于稳定。
+- 
+- [[2018_王华_视觉工作记忆容量与走_KEY-FE55SMLB#^KEY7YEEDXN3]]
+- CDA
+	- ![[2019_Feldmann-Wüstefeld_Neural evidence for _KEY-2V3RDY7N#^KEYN7IYMHGF]]
+
+- 相关文献
+	- [[2022_Roy_Is the Contralateral_KEY-5AN6TLJU]]
+		- 验证CDA是否是一个衡量视觉工作记忆容量的脑电指标

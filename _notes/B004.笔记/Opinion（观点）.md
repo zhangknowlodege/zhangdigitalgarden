@@ -1,0 +1,127 @@
+# 判断题目（信号/标志）
+
+
+----
+# 结构
+- ## 开头段有三种写法
+	- 1.改写原题观点+ 自己的观点
+		- 最常用
+	- 2.事实背景 + 改写原题观点+ 自己的观点
+		- 容易重复词汇
+	- 3.事实背景 + 自己的观点
+		- 难度最大
+- ## 核心段
+	- TS
+		- 解释 
+			- 举例/反向假设+结果/对比
+				- 扣回TS
+- ## 要点
+	- 考官希望看到你的看法，不需要尝试说服所有人
+		- 1.三种反驳思路
+			- 1.这会带来负面影响
+			- 2.不公平
+			- 3.不现实
+				- 3.1考虑 and
+
+-----
+# 四种情况
+- ## 第一种，完全赞同
+	- 标志
+	- [[范文参考Opinion-完全赞同]]
+	- 结构
+		- #### 第一段：改写题目，然后表达完全赞同
+			- It is sometimes argued that high school students should be made to do some work in their local communities.
+				- I completely agree that this kind of scheme would be a good idea. 
+			- （总结背景）….. I completely agree with the idea that these are a waste of money, and that the funds should be allocated to public services.
+		- #### 第二段
+			- 赞同理由1
+		- #### 第三段
+			- 赞同理由2
+		- #### 第四段
+			- 赞同理由3
+		- #### 第五段
+			- In conclusion, 重复自己的观点. 
+- ## 第二种，完全不赞同
+	- 标志
+	- [[范文参考Opinion-完全不赞同]]
+	- 思路提炼
+	- 结构
+		- #### 第一段：改写题目，然后表达完全不赞同
+			- It is sometimes that ……。
+				- I completely disagree with this idea. 
+			- Many people do sth.
+				- Personally, I disagree with the idea…… 
+			- Some people believe that…..。 
+				- I disagree with this view because I believe that we should …..
+			- 1、It has been suggested that……In my opinion, it would be wrong to force teenagers to do any kind of unsalaried work.
+			- 2、It is undeniable that， However, I completely disagree with the idea that….
+			- 3、Although I believe that……., I do not agree that (a simple rise in the price) is enough. 
+			- 4、Some people argue/believe that it is pointless to ….because….. I completely disagree with this point of view 
+			- Increasing the price of petrol is the best way to solve growing traffic and pollution problems. To what extent do you agree or disagree with this opinion?
+			- 版本一：
+				- It is sometimes argued that the increase in the price of fuels can be the best solution to problems related to traffic and environment. I completely disagree with this opinion.
+			- 版本二：
+				- It is sometimes argued that the increase in the price of fuels can be the best solution to problems related to traffic and environment. Although I believe that higher fuel prices can reduce the number of cars on the street, I do not agree that a simple rise in the price is enough.
+			- 用题目中的事实来做背景句
+				- Some people have benefited from modern communication technology, but some groups of people have not benefited at all. To what extent do you agree or disagree?
+				- The 21st century has seen a large number of changes that are beyond our wildest expectations. One of these advances is the rapid development of communications technology. The advantages of convenience and high efficiency brought by digital communication are obvious, but I do not think that everyone has access to these benefits.
+				- Some people think that instead of preventing climate change, we need to find a way to live with it. Do you agree or disagree?
+				- (As a result of human activities, climate has never stopped changing.) Some people believe that human beings should explore new technology to live with climate change rather than stop it from becoming worse. My view is that while we have no choice but to adapt to the changing environment, just doing so is not enough. 
+		- #### 第二段：不赞同理由1 
+			- First of all，理由+解释+例子+结果
+			- In my opinion, it is absurd to argue that
+				- 反向论证（ If ….., 结果） 
+					- 举例论证（ To take XX as example,….
+			- On one hand ,…..
+				- Doing sth is simply unrealistic.Because …. 
+		- #### 第三段：不赞同理由2 
+			- Another reason why I am against the given opinion is tha
+				- I also disagree with the idea that….。
+			- 解释 
+				- 例子 
+					- 反向假设
+						- At the same time,….
+		- #### 第四段：In conclusion, 重复自己的观点
+			- In conclusion, I believe that…., and it would be counterproductive todo sth. 
+			- In conclusion, it is ture that …., but in my opinion….. 
+- ## 第三种，部分同意 
+	- 标志
+	- [[范文参考Opinion-部分同意]]
+	- 思路提炼
+	- 结构
+		- #### 第一段
+			- 改写陈述题目观点。
+				- I believe that 一句话写出你的清晰观点(前面所提到的两种一分为二方法)
+			- While I disagree with the idea of making such programs compulsory, I do believe that voluntary community service could benefit young people.
+				- In my opinion, whether an old building should be torn down and make way for a new one mainly depends on its value in terms of art and history.
+			- 中间两段用 
+				- In my opinion, in addition/besides
+			- 结尾：
+				- In conclusion, my view is that governments should spend money on services that benefit all members of society, and it is wrong to waste resources on projects that do not improve our everyday lives.
+		- #### 第二段
+			- It is true that…/I accept that…/I admit that …(这里有n种方法来写topic sentence) ………………
+		- #### 第三段
+			- However/Nevertheless, 开始对另一部分或者另一种情况进行分析。
+		- #### 第四段
+			- In conclusion, 重复自己的观点和看法
+- ## 第四种，取决于
+	- 标志
+	- [[范文参考Opinion-取决于]]
+	- 思路提炼
+	- 结构
+		- #### 第一段
+			- Most governments are faced with the dilemma of whether to spend a huge amount of money protecting old buildings or simply knock them down.
+				- In my opinion, whether an old building should be torn down and make way for a new one mainly depends on its value in terms of art and history.
+			- 用In order to来引出话题
+				- Some people think that media violence should be banned to reduce crimes. To what extent do you agree or disagree with this opinion?
+					- In order to create a society with lower crime rate, governments have been seeking various methods. Some people suggest that banning violent media contents could be an effective way. In my opinion, whether media violence should be banned depends on the age of the viewer or the player 
+			- 有人认为在城市空旷地带种更多树比修建更多房屋更重要。你是否赞同此观点。
+				- Some people suggest that open spaces of a city should be used to plant more trees rather than build more houses.
+					- Personally, I think that the best use of the spaces should depend on the conditions of a city.
+		- #### 第二段
+			- On the one hand 
+		- #### 第三段
+			- On the other hand,
+		- #### 第四段
+			- In conclusion, I do not agree that all old buildings should be demolished without taking their unique meanings into consideration.
+				- Culturally and historically valuableold architectural works are worth preserving and protecting. 

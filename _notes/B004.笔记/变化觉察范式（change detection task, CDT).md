@@ -1,0 +1,30 @@
+- # 流程图
+	- 
+- # 常见呈现平台
+	- runs in MATLAB using Psychtoolbox
+- # 测量内容
+	- 视觉工作记忆容量
+- # 衡量指标
+	- K值
+		- 确定 K 值大小的理论 依据主要是信号检测论。
+			- 根据信号检测论，以及收集到的原始数据，我们可以分别计算出
+				- 击中率 (Hit Rate, HR) 、
+				- 虚报率 (False Alarm rate, FA) 、
+				- 正确拒斥率 (Correct Rejection rate, CR) 
+				- 和漏报率 (Miss Rate, MR) 。
+		- 最早
+			- 视觉工作记忆容量的计算方法最早由 Pashler (1988) 提出，他认 为如果一个被试能记住记忆负载 (setsize) S 中的 k 个刺激，考虑被试在实验中可能存在的猜 测的影响，被试实际的击中率 HR=k/S+[(S-k)/S×FA]，
+			- 从而得出个体的 K=[S×(HR-FA)/1-FA]。
+		- 目前
+			- Cowan (2001) 在研究中认为 Pashler 的研究少考虑了正确拒斥率，而他认为视觉工作 记忆容量 K 应当包括正确拒斥率。
+				- 他在 Pashler 研究的基础上，提出 CR=k/S+[(S-k)/S]×(1-FA)， 结合 HR 和 CR，得出 K=S×(HR+CR-1)或 K=S×(HR-FA)。
+				- Cowan 用标准化后的 K 值计算公 式，测得人类视觉工作记忆容量大多在 4 的时候达到顶峰，并且他还证实即使当记忆负载 S 为 10 时，该结论也成立。
+				- 事实上，由 Cowan 提出的视觉工作记忆容量的计算公式一直沿用 至今([[2001_Cowan_The magical number 4_KEY-MH3658R9]])。
+- # 种类
+	- color change detection task
+	- code
+		- [GitHub - kcsa/change-detection-task: Change detection task code for measuring visual working memory (Matlab + Psychtoolbox)](https://github.com/kcsa/change-detection-task)
+- # 参考资料/相关应用
+	- 参考：[[2018_王华_视觉工作记忆容量与走_KEY-FE55SMLB#^KEYJTPV8S9C]]
+		- [[2018_王华_视觉工作记忆容量与走_KEY-FE55SMLB#^KEYC68SIXCW]]
+	- [[2021_Barnes-Scheufler_Transdiagnostic comp_KEY-56SK5R8D#^KEYASAGPUSU]]

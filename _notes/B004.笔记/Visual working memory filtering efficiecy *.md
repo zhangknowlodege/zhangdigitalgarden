@@ -1,0 +1,184 @@
+# 视觉工作记忆的过滤效能 {存在无关刺激，但是视觉工作记忆正常运作，为什么？/视觉工作记忆如何解决无关刺激}
+- ## 概念界定
+	- Filtering is the ability to selectively encode and maintain task-relevant information in the presence of irrelevant information（[[2018_Robison_Individual differenc_KEY-QWRZRJ8L]]）。
+	- 工作记忆(working memory, WM)可以短暂地 储存和控制外界信息, 以实现目标导向的行为(库 逸轩, 2019) 。但有限的工作记忆容量(working memory capacity, WMC)要求个体建立高效的信息 选择机制, 纳入与任务高度相关的信息, 并避免 因无关信息的干扰而造成的容量浪费。研究者 (Vogel et al., 2005)将这种信息选择能力称为过滤 效能(filtering efficiency, FE, 也有研究称 filtering ability), 即选择与任务有关的目标信息并过滤与任务无关的分心信息的能力, 属于视觉工作记忆 (visual working memory, VWM)在信息储存过程 中的干扰抑制机制, 这种机制主要体现在对视觉 信息储存的加工处理阶段。Cowan 等(2006)认为, FE 本质上是注意控制的选择性功能在 VWM 中的 体现。[[2021_张照_视觉工作记忆的过滤效_KEY-L5HC785T]]
+	- 概念界定
+		- Distractor Inhibition（分心抑制 ）
+		- Distractor suppression
+		- Resistance
+		- interrupt
+			- 是打断，是需要反映 
+	- the difference betwween distraction  and interruption ([[2021_Gresch_Shielding working-me_KEY-C23KA4MX#^KEY4MC373CW]])
+		- [[2020_Zickerick_Differential Effects_KEY-YFQ5HDWF]]
+		- [[2010_Clapp_Mechanisms of workin_KEY-FEEY3KWE#^KEYU3T4HKPQ]]
+- ## 特点
+	- 一类研究关注如何被无关刺激影响
+	- 一类研究关注的是如何解决无关刺激的
+- ## 理论基础
+	- baised- competition framework[[2020_Liesefeld_How visual working m_KEY-GVZJZMGJ#^KEYBTJULE9S]]
+- ## 为什么它很重要
+	- 说很重要的相关论述
+		- "In everyday life and modern working environments, it has become essential to effectively deal with distractions and interruptions." ——[[Zickerick et al., Frontiers in Human Neuroscience, 2020]]
+		- “Protection of visual working memory (WM) representations from the interference posed by the incoming task-irrelevant visual input is critically important for efficient WM under real-life conditions”——[[Hermann et al., Neuroimage, 2021]]
+		- Distraction resistance is a key determinant of individual working memory capacity [2], which itself is linked to fluid intelligence [3].[[Lorenc et al., Trends in Cognitive Sciences, 2021]]】
+		- How the short-term maintenance of information or planned actions can be robust or susceptible to distracting information is regarded as one hallmark of working memory1.[[2021_Chong_Closing the gate to _KEY-RU2BAL8H]]】
+		- “the finding that delay period distraction can impair performance is so ubiquitous that it is considered a ‘benchmark’ that modern working memory models must include（[[Oberauer et al., Psychological Bulletin, 2018]]）——[[Lorenc et al., Trends in Cognitive Sciences, 2021]]
+	- 1.个体在视觉工作记忆容量存在差异的关键因素（理解视觉工作记忆容量的有限性）
+		- 个体视觉工作记忆容量存在差异的原因是由于对无关刺激的抑制，而非存储空间的大小。
+			- “Extensive work in the past 20 years has indicated that these individual differences are determined primarily by variability in consistently deploying attentional control over what is stored in working memory, rather than the absolute amount of storage space per se (Adam et al., 2015; Kane and Engle, 2002). Low-capacity individuals have more difficulty <mark style="background: #BBFABBA6;">ignoring distracting information</mark> than do high-capacity individuals. This is in part because they are slower at disengaging attention from irrelevant information that captures their attention (Fukuda and Vogel, 2011). Thus, the ability to efficiently deploy attentional control in overloading situations appears to be the common thread that connects working-memory capacity to an individual’s ability to perform many complex cognitive tasks.”——[[Eriksson et at., Neuron, 2015]]
+		- 使用过滤效能的高低来解释视觉工作容量的个体差异，[[2016_Gaspar_Inability to suppres_KEY-2D8LHW8L]]前言有详细论述
+	- 2.更接近真实世界的工作记忆运作
+		- When operating in a complex world, it is essential to have mechanisms that can suppress distracting information [1, 2]. Such mechanisms might be related to neuronal oscillations, which are known to be involved in gating of incoming information [3].[[Bonnefond & Jensen, Current Biology, 2012]]】
+	- 3.各种精神疾病/老化 工作记忆缺陷的原因
+		- 对于无关信息的过滤能力不同是工作记忆容量存在个体差异的关键所在（[[McNab & Dolan, Journal of Experimental Psychology- Human Perception and Performance, 2014]]；[[Feldmann-Wustefelde & Vogel, Cerebral Cortex, 2019]]）。
+		- 无论是工作记忆老化（McNab, F. et al. (2015) Age-related changes in working memory and the ability to ignore distraction. PNAS 112, 6515–6518），还是各种临床症状，如ADHD（Cornoldi, C. et al. (2001) Working memory interference control deficit in children referred by teachers for ADHD symptoms. Child Neuropsychol. 7, 230–240）、精神分裂症（Cornoldi, C. et al. (2001) Working memory interference control deficit in children referred by teachers for ADHD symptoms. Child Neuropsychol. 7, 230–240）等，所出现的工作记忆缺陷往往以无法过滤无关信息为特点（）。
+		- 工作记忆损害普遍存在于正常老化还是罹患各种精神疾病，
+		- In particular, individual differences in the efficiency of filtering distracting information are strongly predictive of an individual’sWM capacity, suggesting that the ability to regulate access to WM is a critical feature in an individual’s overall cognitive and intellectual ability (Vogel et al. 2005; Astle et al. 2008; Fukuda and Vogel 2011; Linke et al. 2011).【[[2019_Feldmann-Wüstefeld_Neural evidence for _KEY-2V3RDY7N]]】
+			- 高低工作记忆能力的个体体现在对无关信息的过滤（[[Feldmann-Wustefelde & Vogel, Cerebral Cortex, 2019]]）
+				- Vogel et al. (2005) asked subjects to remember only the red items from displays containing a mix of red and blue objects while they measured the contralateral delay activity (CDA)—an event-related potential (ERP) component that is highly sensitive to the number of items that are currently being held in WM. They observed that while individuals with a high WM capacity managed to maintain only the task-relevant items in memory, their low capacity counterparts unnecessarily stored both the irrelevant and relevant items in memory.
+			- WM capacity (WMC) is reduced in many psychiatric and neurological disorders (Goldman-Rakic, 1994; Castellanos & Tannock, 2002) as well as with normal aging (Bopp & Verhaeghen, 2005).A possible functional architecture that determines the efficiency of WMC relates to filtering, which enables the discarding of irrelevant and storage of relevant information. It has been reported that storage-related parietal activity for distractors negatively correlates with WMC, consistent with the idea that participants with low WMC unnecessarily store distractors, whereas participants with high WMC filter them effectively and remember relevant information alone (Vogel, McCollough & Machizawa, 2005;McNab & Klingberg, 2008).[[McNab & Dolan, Journal of Experimental Psychology- Human Perception and Performance, 2014]]
+			- 这在后面的精神障碍和老化身上得到同样的发现（）
+				- This general finding has been replicated and extended by several groups that have observed that both neurological patients and healthy elderly adults with low WM are slower and less effective at controlling access to the limited representational space of WM (Fuller et al. 2005; Lee et al. 2010; Jost et al. 2011).
+	- 4.有助于理解注意（选择性注意）与视觉工作记忆的关系
+- ## 影响/调节因素
+	- temporally predictable
+		- [[2021_Gresch_Shielding working-me_KEY-C23KA4MX]]
+	- 个体差异
+		- 年龄差异
+			- [[2015_McNab_Age-related changes _KEY-AD9IYR7H]]
+			- [[2011_Jost_Are old adults just _KEY-HBWZJGEL]]
+			- [[2011_Jost_Age Differences in V_KEY-8S75A4K5]]
+			- [[2005_Vogel_Neural measures reve_KEY-NPYJ7FAQ]]
+		- 思维方式
+			- [[2019_Hadar_Concrete mindset imp_KEY-GVSSAHSV]]
+	- 材料
+		- 情绪
+			- [[2018_Ye_The impact of visual_KEY-IQUERTMF]]
+- ## 分类
+	- 编码阶段（coding）
+	- 表征阶段（representations）
+	- 存储阶段（storage/retention）
+	- 保持阶段（maintenance）
+	- 容量/精度
+- ## 其他
+	- 与学业成就的关系
+		- [[2017_Tsubomi_Development of visua_KEY-3P8ND3AE]]
+	- 可塑性
+		- [[2017_Li_Visual working memor_KEY-3GHALWM4]]
+- ## 起效机制
+	- 生物学基础/指标
+		- [[2012_Bonnefond_Alpha Oscillations S_KEY-GDRLYKW2#^KEYF6QGRENA]]
+		- [[2008_McNab_Prefrontal cortex an_KEY-BPZMC34Q]]
+	- 分类来源（[[2020_Liesefeld_How visual working m_KEY-GVZJZMGJ#^KEY7PD8U2TA]]）
+		- A：目标刺激表征（增强）
+		- B：无关刺激抑制
+			- 无关刺激抑制被认为是多脑区协同配合，而非单个脑区的功能（[[2020_Liesefeld_How visual working m_KEY-GVZJZMGJ#^KEYKZWGFGIY]]）
+			- attention capture 可以被区分成Spatial capture和 item-based capture（[[2021_Hakim_Controlling the flow_KEY-IKMW5S65]]）
+				- 任务相关的分心刺激会诱发spatial and item-based capture，而任务不相关的分心刺激仅诱发 spatial capture
+			- 在工作记忆保持阶段，存在两种自上而下的注意控制抑制无关刺激（[[2021_Hermann_Neural basis of dist_KEY-L6ENVLZZ]]）
+				- 一种是基于工作记忆表征内容(proactive）；一种是自上而下的注意控制（reactive)
+			- 衡量指标
+				- [[2019_Feldmann-Wüstefeld_Neural evidence for _KEY-2V3RDY7N]]首次从N2pc中分离出PD成分，认为该成分反映的是个体对于无关刺激的抑制能力
+				- Recently, however, a new ERP component has been reported that appears to specifically reflect an active suppression mechanism that is applied to salient distractors presented within a visual search task. By using systematic stimulus lateralization procedures (Woodman and Luck 2003; Hickey et al. 2006, 2009; Feldmann-Wüstefeld and Schubö 2013a; Gaspar and Mcdonald 2014; Burra et al. 2016), the distractor positivity (PD) component reflecting suppression can be disentangled from the N2pc component which is known to reflect the attentional prioritization of targets.【[[2019_Feldmann-Wüstefeld_Neural evidence for _KEY-2V3RDY7N]]】
+			- proactive 与 reactive
+				- [[2020_Liesefeld_How visual working m_KEY-GVZJZMGJ#^KEYQRVJ7QXM]]
+- ## 存在的问题/未来研究方向 ^32014c
+	- ### 1.过滤效能（注意控制）与视觉工作记忆容量的关系 
+		- （[[2020_Liesefeld_How visual working m_KEY-GVZJZMGJ#^KEYNPEYK4UM]]）
+			- 过滤能力（注意控制）是个体工作记忆容量存在差异的多个原因之一；另外包括长时记忆等
+				- [[2020_Liesefeld_How visual working m_KEY-GVZJZMGJ#^KEYNRLP8FPK]]
+			- filtering
+				- drawing-in part（目标刺激增强）
+				- keep-out part（无关刺激抑制）
+				- 两者与工作记忆容量的关系未来值得进一步考察（[[2020_Liesefeld_How visual working m_KEY-GVZJZMGJ#^KEYBDDXQ53C]]）
+	- ### 2.priority-map concept -[[priority map]]
+		- [[2020_Liesefeld_How visual working m_KEY-GVZJZMGJ#^KEYI2ITCR75]]
+		- 利用priority-map 的逻辑去解释 视觉工作记忆过滤效能
+	- ### 3.mind-wandering
+		- 工作记忆保持并不是需要持续性注意（[[2021_Lorenc_Distraction in Visua_KEY-XJP9XLT7#^KEY77W5BLNJ]]）
+	- ### 4.silent- activity coding -[[静默态工作记忆]]
+		- [[2021_Lorenc_Distraction in Visua_KEY-XJP9XLT7#^KEYFQRRUVS7]]
+		- [[2021_Lorenc_Distraction in Visua_KEY-XJP9XLT7#^KEY2B37YUQM]]
+	- ### 5.目标增强与无关刺激抑制的关系
+		- [[视觉工作记忆的正常运作：目标增强还是无关刺激的抑制？]]
+	- ### 6.[[statistical regularities]]
+# 相关文献
+- #### 拓展领域文献
+	- [[2022_Wöstmann_Ten simple rules to _KEY-GGPA6UBV]]
+	- [[2022_Di Bello_Prefrontal Control o_KEY-Z5MWUPL4]]
+		- 2022-08-18
+- #### 种子文献
+	- [ ] [[2021_Lorenc_Distraction in Visua_KEY-XJP9XLT7]]
+		- [x] 2022-08-23
+		- [x] 2022-08-24
+	- [ ] [[2021_Hakim_Controlling the flow_KEY-IKMW5S65]]
+		- [ ] 这篇研究回答了
+			- [ ] 但是没有告诉task-relevant 信息有没有被抑制
+	- [ ] [[2021_Hallenbeck_Working memory repre_KEY-LY3ZPHNW]]
+		- [ ] 2022-08-18
+	- [ ] [[2021_Lorenc_Reframing the debate_KEY-6BM6RD57]]
+	- [ ] [[2021_Hermann_Neural basis of dist_KEY-L6ENVLZZ]]
+	- [ ] [[2020_Olivers_Future steps in visu_KEY-9TN876JL]]
+	- [ ] [[2022_Sun_Modulation of simila_KEY-39I4KC2S]]
+	- [ ] [[2020_Zickerick_Differential Effects_KEY-YFQ5HDWF]]
+	- [ ] [[2020_Riddle_Causal evidence for _KEY-T9HKCHTH]]
+	- [ ] [[2020_Yao_Visual working-memor_KEY-K4YIB5R7]]
+	- [ ] [[2020_Sauseng_Cognitive control：br_KEY-7HTKQPEE]]
+	- [ ] [[2020_Fodor_Salient distractors _KEY-X8IJUFXU]]
+	- [ ] [[2020_Liesefeld_How visual working m_KEY-GVZJZMGJ]]
+		- [x] 2022-08-22
+	- [ ] [[2019_Feldmann-Wüstefeld_Neural evidence for _KEY-2V3RDY7N]]
+		- [ ] 首次分离PD成分
+	- [ ] [[2018_Lorenc_Flexible coding of v_KEY-EUHZEYLN]]
+	- [ ] [[2018_Robison_Individual differenc_KEY-QWRZRJ8L]]
+	- [ ] [[2018_Ye_The impact of visual_KEY-IQUERTMF]]
+	- [ ] [[2016_Gaspar_Inability to suppres_KEY-2D8LHW8L]]
+		- [ ] 2022-08-17
+	- [ ] [[2018_de Vries_Priority switches in_KEY-A9UQYAPK]]
+	- [ ] [[2005_Vogel_Neural measures reve_KEY-NPYJ7FAQ]]
+	- [ ] [[2006_Cowan_Visual working memor_KEY-5K7A5N5S]]
+
+----
+# 稳扎稳打地梳理，慢就是快
+- 1.文献调研工作
+	- 旧的文献：
+		-  [[前期文献调研工作]]（WOS)
+		- 读文献溯源
+	- 新的文献：
+		- [[玩转Google scholar]]
+			- 学者
+			- 关键词（大范围）
+- 2.文献分析
+- [[3.文献筛选与阅读池    (1号盒子）]] 
+	- 阅读笔记与记录(所有文献都在这里
+	- 一号盒子阅读笔记进行提炼
+	- [[基础知识补充]]
+	- [[研究现状梳理]]
+	- [[对重要文献进行汇总分析]]
+	- [[Excalidraw大厦梳理]]
+-----
+# 实质性推进推
+- <mark style="background: #ADCCFFA6;">目前就这样推进</mark> 
+	- 第一：基础知识补充，把整个宏观大厦（注意与工作记忆）给搭建起来
+		- 对于博士期间十分重要
+	- 第二：以目的为导向，觉得可以做的点深入下去，赶紧出成果
+	- 第三：继续挖掘本领域其他可能点，作为备选方案
+- 产出
+	- 综述
+	- 实证研究
+		- [ ] 定位
+			- [ ] 兴趣点一：[[视觉工作记忆通过抑制与门控两种方式过滤无关刺激]]
+				- [ ] 预期是否会捕获空间注意；区分proactive与reactive
+					- [ ] preparatory是否会阻止spatial attention
+			- [ ] 兴趣点二: [[静默态工作记忆]]
+		- [ ] 无关刺激对视觉工作记忆编码阶段的影响
+			- [ ] [[2021_Hakim_Controlling the flow_KEY-IKMW5S65#^KEY38CXYXR3]]
+		- [ ] 一些思考（可能的着手点）
+			- [ ] [[第一步，从中提出研究问题]]
+			- [ ] [[4.脉络梳理与大厦构建（2号盒子）#^32014c]]
+			- [ ] [[5.一些洞见与一些思考]]
+				- [ ] [[聚焦点：PD成分在视觉工作记忆中的生物学意义]]
+			- sailent 还没有人操纵过
+			- past experience/expectation 也可以进行考察
+
+-----

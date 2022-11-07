@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>第二，构建高效科研工作流，并不--断迭代</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="核心步骤">核心步骤</h1>
+<ul>
+<li><h4 id="文献调研">1.文献调研</h4>
+<ul>
+<li>[[玩转Google scholar]]</li>
+<li>[[03.玩转Research rabbit]]</li>
+<li>文献数据库</li>
+</ul></li>
+<li><h4 id="文献阅读">2.文献阅读</h4>
+<ul>
+<li>Zotero：筛选</li>
+</ul></li>
+<li>边读边写</li>
+<li>Obsidian中写的东西转换到Word
+<ul>
+<li></li>
+</ul></li>
+<li><h4 id="文献管理梳理">3.文献管理、梳理</h4></li>
+<li>读文献要做到两点
+<ul>
+<li>第一，一边读一边写，构建你的大厦
+<ul>
+<li>服务于你的综述或实证研究（内容上）</li>
+<li>在需要时候直接调用</li>
+</ul></li>
+<li>第二，一边读一边学习好的东西，整理到“[[科研中的所见即所得 🌿]]</li>
+</ul></li>
+<li><h4 id="满足需求">4.满足需求</h4>
+<ul>
+<li>1.综述/元分析</li>
+<li>2.实证研究</li>
+</ul></li>
+<li><h4 id="成果变现">5.成果变现</h4></li>
+<li><h4 id="成果传播">6.成果传播</h4></li>
+<li>参考[[科研生存手册与指南 🗺️]]</li>
+<li></li>
+<li></li>
+<li></li>
+<li><h1 id="我目前的工作流">01.我目前的工作流</h1>
+<ul>
+<li><h2 id="一个实际工作流">[[一个实际工作流]]</h2></li>
+<li><h2 id="一个迭代机制">[[一个迭代机制]]</h2></li>
+</ul></li>
+<li><h1 id="看看人家如何构建的">02.看看人家如何构建的</h1>
+<ul>
+<li>非常重要
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />[[薛定谔的博士喵]]<ul>
+<li><a
+href="https://space.bilibili.com/33315831/video">薛定谔的博士喵的个人空间_哔哩哔哩_bilibili</a></li>
+<li>动态的函数（文章A使用了，B也可以使用）</li>
+</ul></li>
+</ul></li>
+<li><a
+href="https://sspai.com/post/67824#!">用眼睛思考：重新理解科研工作流中的构思机制
+- 少数派 (sspai.com)</a></li>
+<li><a href="https://sspai.com/post/64795">My workflow-
+一个文科博士生的资料管理、阅读和笔记系统-基于 DEVONthink 3，Obsidian -
+少数派 (sspai.com)</a></li>
+<li><a
+href="https://blog.csdn.net/weixin_44079503/article/details/124957611">(6条消息)
+科研完美工作流_weixin_44079503的博客-CSDN博客</a></li>
+<li><a href="https://www.youtube.com/watch?v=ELLEzK6fKPg">How to write a
+thesis or capstone 10 minutes at a time | How I learn deeply and
+permanently - YouTube</a></li>
+<li><a
+href="https://www.bilibili.com/video/BV1Ua411J7Q8?spm_id_from=333.337.search-card.all.click">如何用笔记工具为科研赋能？_哔哩哔哩_bilibili</a></li>
+<li><a href="https://www.youtube.com/watch?v=P3Hlo1DMdQQ">Obsidian for
+Academic Publishing - A Walkthrough with Jason Yuh - YouTube</a></li>
+<li><a href="https://www.youtube.com/watch?v=4T0q2kQwc2o">How I Set Up
+Obsidian for Academic Work - YouTube</a></li>
+<li><input type="checkbox" disabled="" /><a
+href="https://space.bilibili.com/508945184/video">小简_Aca的个人空间_哔哩哔哩_bilibili</a></li>
+</ul></li>
+<li><h2 id="重要性思考"># 03.重要性思考</h2></li>
+<li>snippets
+<ul>
+<li>程序段 比如为什么这个问题很重要：
+你在前期书里过程中会进行汇总；然后这些汇总的子内容都在阐述：
+这个问题很重要 。这其实就是一个程序段， 后期在写作时候
+直接搬过来，然后简单梳理就可以用了</li>
+<li><h2 id="snippets-打上标签">snippets 打上标签</h2></li>
+</ul></li>
+<li><h1
+id="我的科研工作流程不断迭代和优化">我的科研工作流程(不断迭代和优化)</h1>
+<ul>
+<li>进入一个领域，阅读几篇经典综述</li>
+<li>知道这个领域的goal是什么，也大概知道前人做了那些尝试</li>
+<li>根据确定的关键词，去检索这个领域所有的文献（过去的），订阅一些可能新发表的文献，倒入到Zotero</li>
+<li>然后阅读标题和摘要，对文献进行第一轮划分，进行归类（归类的就是这篇文献探讨的是哪一个goal’？）</li>
+<li>第二轮，就是对于特定的goal’下面的文章开始阅读，看看作者为了解决这个问题，他做出了什么、表达了什么？</li>
+<li>一个板块
+<ul>
+<li>每天花半小时时间去思考“今天学的知识如何纳入到原有体系中去”【notes——permanent
+note】
+<ul>
+<li>每天学习的内容打上标签“今天学的”然后最后进行回顾、融化一下</li>
+</ul></li>
+<li><h2
+id="每周有那么两天时间不学习心得东西半天拿来休息半天就去复盘最近推进的计划下一步走向">每周有那么两天时间不学习心得东西，半天拿来休息，半天就去复盘最近推进的，计划下一步走向</h2>
+<h1 id="文献调研-1">文献调研</h1></li>
+</ul></li>
+</ul></li>
+<li>旧的文献
+<ul>
+<li>找师兄师姐/导师，要一篇本领域的经典综述（如果一无所知的话）</li>
+<li>搜寻本领域几篇综述（先找中文；没有的话去找英文）
+<ul>
+<li>一般以标题的关键词进行定位；找高被引</li>
+<li>可以先去WOS/Pubmed；可以筛选高被引/综述文章</li>
+</ul></li>
+<li>A B 两步同时进行
+<ul>
+<li>A：读上3～5篇综述，可能很痛苦，但是仔仔细细阅读；反反复复阅读
+<ul>
+<li>刚读肯定读不懂；多读几篇；背景知识填充差不多，文章就可以读懂了；</li>
+<li>阅读时候可以形成一个比较模糊的框架（比如
+概念、测量、影响因素、机制等等）</li>
+</ul></li>
+<li>B：阅读综述过程中去积累关键词；基于关键词去<mark style="background: #BBFABBA6;">Web
+of science 进行专业/细致的检索</mark></li>
+</ul></li>
+</ul></li>
+<li>新的文献
+<ul>
+<li>[[如何订阅新的文献]]</li>
+</ul></li>
+<li>要点
+<ul>
+<li>文献检索的过程一定要全程记录下来，可以节约大量重复性劳动</li>
+</ul></li>
+<li>数据库</li>
+<li><h2 id="检索技巧">检索技巧</h2>
+<h1 id="文献阅读-1">文献阅读</h1></li>
+<li>一边阅读一边分类</li>
+<li><h2 id="阅读文献的两个阶段">[[06阅读文献的两个阶段]]</h2></li>
+<li><h2 id="阅读文献的三要三不要">[[07阅读文献的三要三不要]]</h2></li>
+<li>01.带着目的去阅读文献<br />
+</li>
+<li>每个阶段看文献的目的是不同<br />
+</li>
+<li>问题提出时候关注的是（Gap、Limitation）<br />
+</li>
+<li>实验设计时候是看的方法部分<br />
+</li>
+<li>结果没事时候看到的结果和讨论部分<br />
+</li>
+<li>一篇科研论文，里面的信息量是庞大的；你也没必要每个信息都抓住，你读文献的方法应该是服务于你读文献的目的<br />
+</li>
+<li>例如，你初入一个领域，你想了解该领域的历史和发展脉络，那么你就重点阅读引言和结论即可，其他的东西对你来说不重要<br />
+</li>
+<li><h2
+id="例如你在找idea那么你就只关注每篇文章的-aimdiscussionlimitation了">例如，你在找idea，那么你就只关注每篇文章的
+aim、discussion、limitation了</h2>
+<h1 id="文献整理">文献整理</h1></li>
+<li>一定要进行文献笔记（框架）</li>
+<li>信息提取出来进行对比分析（同和异）</li>
+<li><h2
+id="读文献应该是一轮一轮的阅读每次对所有文献相同的板块进行筛选和提取将其整理出来然后进行归纳和推理">读文献应该是一轮一轮的阅读，每次对所有文献相同的板块进行筛选和提取，将其整理出来，然后进行归纳和推理</h2>
+[[玩转Google scholar]] — —</li>
+</ul>
+<p>对于某一个话题的讨论，可以使用表现</p>
+<p>比如 - 标签XXX - sb et al., (2022) ….. — - 科研大厦建立 - 1.文献调研
+- 旧的 - 数据库不断检索覆盖 - Google scholar 溯源 - research rabbit 溯源
+- 读文献溯源 - 新的 - Google scholar追踪 - 2.一号盒子 -
+所有文献按照年份排列 - 笔记全部做进去 - 3.二号盒子 -
+根据一号盒子内容搭建框架 -
+按照道理，一号盒子内容应该只有日期，内容都进行提炼到二号盒子了 -
+4.洞见和想法记录 - 研究历程 - 重大突破 - 争论 - 尚需解决问题 -
+未来方向（积累） - 5.实际产出推进 - 基础知识补充完善 - 综述 - 问题提出 -
+整理 —-</p>
+</body>
+</html>

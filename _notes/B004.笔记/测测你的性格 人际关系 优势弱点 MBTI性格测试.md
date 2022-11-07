@@ -1,0 +1,10 @@
+- 500强的80%公司都用的这个框架，相对而言还可以，可以做一个参考
+- 
+- 不同的性格没有优劣之分
+	- 只是环境和职业的适合度，找对了就如鱼得水、发挥自己的优势
+- 
+- 
+- 
+- 
+- 来源
+	- [(5) 测测你的性格 人际关系 优势弱点 | MBTI性格测试 - YouTube](https://www.youtube.com/watch?v=hIB__ksuFlk&list=PL-c0DN3fTeQdn2RngxmF9yK5cZEcCuPXK&index=5)

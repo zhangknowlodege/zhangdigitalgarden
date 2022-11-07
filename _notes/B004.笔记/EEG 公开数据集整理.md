@@ -1,0 +1,3 @@
+- [EEG 公开数据集整理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/377480885)
+- [EEG神经振荡分析：已公开数据及代码共享 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/231914722)
+- [ERP CORE：事件相关电位（EEG/ERP）研究数据和分析的开放资源 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/147287108)

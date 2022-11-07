@@ -1,0 +1,8 @@
+- # 注意在工作记忆中的作用
+- # 工作记忆在注意中的作用
+- # 交互作用
+	- 两者的关系
+		- ![[2021_车晓玮_工作记忆表征精度加工_KEY-I42LM7LL#^KEYXB9SMTWV]]
+- # 其他
+	- current focus of attention
+		- “However, based on empirical findings (see the sub-section Sustained Brain Activity during Working-Memory Maintenance) and computational simulations (see below), representations outside the current focus of attention can also be considered key working-memory elements.”——[[Eriksson et at., Neuron, 2015]]

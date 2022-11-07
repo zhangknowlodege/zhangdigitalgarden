@@ -1,0 +1,34 @@
+- ## Part1  环节 （4～5分钟）
+	- 第一部分：常考题（三个问题）
+		- 关于live; work；
+	- 第二部分：其他题（两个话题，每个话题3～4小问题）
+- ## 1.内容
+	- 4~5 m
+	- 10~11 questions 
+	- 3 tpoic areas 
+	- easy!
+- ## 2.remember
+	- 1.try to show your fluency ( key)  
+	- 2.don't stop and think(hesitation)  
+	- 3.don't worry about vocabulary or grammar 
+	- 4.it's an easy warm-up  
+	- 5.you can't get a high socre from part 1
+- ## 3.回答框架
+	- 1.answer the question  
+	- 2.give a reason or a bit others
+	- * Give short、simple answers,but use full sentences 
+	- Stop with confidence  
+	- Don't keep talking , smile at the examiner!
+- ## 4.topics
+	- Often seem childish
+- ## 5.how to practice
+	- Do you like.....?
+- ## 6.example
+	- Let's talke about sport.....
+- ## 总结
+	- 1.使用完整句子给出你的答案，加个原因或其他东西 
+	- 2. 保持自信，微笑看着考
+	- 3.展现你的fluency
+- ## 补充Part1
+	- [[截屏2022-10-22 07.35.40.png]]
+	- [[截屏2022-10-22 07.34.50.png]]

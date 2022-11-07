@@ -1,0 +1,9 @@
+- Early Pd component
+- 视觉搜索
+	- [[2009_Hickey_Electrophysiological_KEY-7Q9L6BK8]] 首次发现
+	- 生物学基础
+		- ![[2014_Geng_Attentional mechanis_KEY-8UL33X59#^KEY34XW8I5K]]
+- 工作记忆中
+	- ![[Oberauer, K., Farrell, S., Jarrold, C., & Lewandowsky, S. (2016). What limits working memory capacity? _Psychological bulletin_, _142_(7), 758. [https://doi.org/10.1037/bul0000046](https://doi.org/10.1037/bul0000046)2019_Feldmann-Wüstefeld_Neural evidence for _KEY-2V3RDY7N#^KEYK7SZWKA7]]
+	- 视觉搜索中的Pd成分与工作记忆中的Pd成分的区别
+		- ![[2019_Feldmann-Wüstefeld_Neural evidence for _KEY-2V3RDY7N#^KEYT5L8BHNK]]

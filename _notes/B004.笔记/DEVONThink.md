@@ -1,0 +1,4 @@
+- ## 教程
+	- [obsidian 我眼中最好的插件搭配 | 打造个性化知识库 | 完整学术工作流 | dataview/metadata/cmenu/quickadd -v2_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tL4y1H7XJ/?spm_id_from=333.337.search-card.all.click&vd_source=025a435f75f64171dd9cd96896be80a4)
+	- [知识管理软件中的王炸 DEVONThink软件简介（上）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1h8411a7gN/?spm_id_from=333.999.0.0&vd_source=025a435f75f64171dd9cd96896be80a4)
+	- [DEVONthink Pro Office，文件管理爱好者的福音（一） - 少数派 (sspai.com)](https://niu.sspai.com/post/51242)

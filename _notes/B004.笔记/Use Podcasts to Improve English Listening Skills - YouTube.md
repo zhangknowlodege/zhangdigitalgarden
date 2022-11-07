@@ -1,0 +1,36 @@
+- ![[截屏2022-10-05 20.29.35.png]]
+	- ## 3-step process
+		- 1.choose the right podcast
+			- ## step 1:choose the right podcast
+				- 1.interesting 
+				- 2.idetntiy your ultimate goal 
+				- 3.time (how long)
+		- 2. level-up your listening skills with effecitve practice activity
+			- ## step 2:level-up your listening skills with effecitve practice activity
+				- 1.listen for gist
+					- listen for the big piture or main idea
+						- 1.choose your podcast
+						- 2.prepare a simple mind map 
+						- 3.use questions words to anticipate and complete the mind map 
+							- who what how why 
+				- 2.listen & read  to build vocabulary
+					- 1. choose a podcast with a transcript
+					- 2.highlight new words or vocabulary you want to  remeber 
+						- review
+					- 3.aim to determine meaning based on context 
+						- before you use dictionary
+					- 4.confirm with a dictionary and prepare your onw sentence 
+				- 3.focus on  global listening 
+					- listen to understand the finer details & layers of meaning 
+						- to read between the lines
+					- As you listen ,consider :
+						- 1.what emotions/opinions does the speaker convey? 
+						- 2.what is communicated through the speaker's voice? 
+		- 3.set yourself up for success with good habits 
+			- ## Step 3:set yourself up for sucess with good habits 
+				- 1.Be realistic & fit your listening pracitce into your lifestyle 
+				- 2.take advantage of playback speed 
+				- 3.meet with friends & relfect on what you've learned 
+				- 4.be patinet with yourself
+- ## 参考文献
+	- (8) Use Podcasts to Improve English Listening Skills - YouTube](https://www.youtube.com/watch?v=PMVYvLnrSIM)

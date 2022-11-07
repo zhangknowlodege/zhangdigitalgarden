@@ -1,0 +1,4 @@
+- [掌控自己的欲望-读书《模仿欲望的力量》-Wanting: The Power of Mimetic Desire in Everyday Life - YouTube](https://www.youtube.com/watch?v=kSLg9PmvslY)
+- 欲望是模仿的而来，尤其是比较高层次的欲望
+- 互联网和媒体广告业的蓬勃发展把利用“欲望模仿”来赚钱推向极致
+- 

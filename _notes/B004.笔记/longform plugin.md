@@ -1,0 +1,4 @@
+- 相关教程
+	- [obsidian长文写作-longform新版本功能补充_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1mS4y1u7Jv/?vd_source=025a435f75f64171dd9cd96896be80a4)
+	- [「Longform」插件使用说明选译 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/887/4)
+	- [obsidian长文写作-longform新版本功能补充_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1mS4y1u7Jv/?vd_source=025a435f75f64171dd9cd96896be80a4)

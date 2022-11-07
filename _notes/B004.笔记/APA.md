@@ -1,0 +1,2 @@
+- 出版的所有期刊
+	- [Browse Journals and Special Issues (apa.org)](https://www.apa.org/pubs/journals/browse?query=Title:*&type=journal)

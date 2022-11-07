@@ -1,0 +1,8 @@
+- # 资料
+	- file:///Users/zhangtongyi/Zotero/storage/LHHHBPK3/108471097.html
+	- [BrainNet viewer使用_xxxxffff_的博客-CSDN博客_brainnetviewer使用手册](file:///Users/zhangtongyi/Zotero/storage/6YVRESJH/120020099.html)
+	- https://zhuanlan.zhihu.com/p/279649998
+	- file:///Users/zhangtongyi/Zotero/storage/M6Y3RY87/125700998_614807.html
+	- file:///Users/zhangtongyi/Zotero/storage/U57WUKFC/82419617.html
+	- 手册[[BrainNet_Manual.pdf]]
+		- 

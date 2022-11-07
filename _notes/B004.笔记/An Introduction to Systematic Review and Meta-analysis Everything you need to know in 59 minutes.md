@@ -1,0 +1,102 @@
+- articulate your question
+	- population
+	- intervention/expound
+	- comparator/control
+	- outcome
+- 误解
+	- 不是很复杂
+	- 不用是第一个
+	- 不是只做supervisors 让你做的
+- # Intro to systematic reviews and meta-analysis
+	- systematic review 
+		- ![[截屏2022-05-10 16.33.07.png]]
+	- Meta-analysis
+		- ![[截屏2022-05-10 16.33.14.png]]
+	- types of reviews
+		-  narrative review
+		- systematic review
+		- Scoping review 
+		- rapid review
+		- cochrane systematic review
+		- Meta- analysis
+		- Network meta- analysis
+		- individual patient data（IPD） meta- analysis
+	- 各种综述的关系
+		- ![[截屏2022-05-10 16.37.23.png]]
+	- Why bother？
+		- Good questions
+		- Timely topics
+		- Topis with multiple studies
+		- Topics with conflicting reslts
+	- 平衡
+		- pros
+			- high-impact
+			- minimal training required
+		- cons
+			- a lot of work
+			- scoop risk is real
+	- types of systematic reviews
+		- descriptive:描述关系
+		- diagnstic accuaray：诊断真确性
+		- effect of intervention：干预的有效习惯
+	- performing the review
+		- develop a specific and explicit research question 
+		- concussion and suicide 
+		- draft your search strategy
+			- ![[截屏2022-05-10 16.46.16.png]]
+		-  注册
+			- ![[截屏2022-05-10 16.46.56.png]]
+		- performing the review 
+			- be systematic in your search 
+			- source of articles
+				- ![[截屏2022-05-10 16.49.30.png]]
+			- get friendly with a librarian 
+		- searching for articles 
+			- ![[截屏2022-05-10 16.52.18.png]]
+	- 一个小技巧看 关键词可能的替换词
+		- ![[截屏2022-05-10 16.51.25.png]]
+		- ![[截屏2022-05-10 16.51.38.png]]
+	- search strategy 
+		- Pubmed是标题、摘要、机构名
+		- 谷歌是检索全文
+	- screen  search results
+		- ![[截屏2022-05-10 16.54.51.png]]
+	- 筛选
+		- ![[截屏2022-05-10 18.05.11.png]]
+	- tool to stay organized（筛选文献的工具）
+		- ![[截屏2022-05-10 18.07.37.png]]
+		- covidence是最好的，但是要付费
+	- systematic review results
+		- table 1：
+			- ![[截屏2022-05-10 18.08.47.png]]
+		- quality assessment
+			- ![[截屏2022-05-10 18.09.12.png]]
+		-  table 2
+			- ![[截屏2022-05-10 18.09.56.png]]
+		- 最好两个人独立完成
+		-  Meta-analysis
+			- ![[截屏2022-05-10 18.10.39.png]]
+		- Meta-analysis results 
+		- 什么样的情况下适合meta分析
+			- ![[截屏2022-05-10 18.14.37.png]]
+		- 什么情况下不要meta分析
+			- ![[截屏2022-05-10 18.17.58.png]]
+		- 元分析呈现什么
+			- （树形图）
+				- ![[截屏2022-05-10 18.18.19.png]]
+				- ![[截屏2022-05-10 18.19.13.png]]
+		- Meta- analysis的步骤
+			- ![[截屏2022-05-10 18.21.06.png]]
+		- 结果的种类
+		- Binary
+		- estimating summary measure（pooled effect）
+			- ![[截屏2022-05-10 18.23.13.png]]
+		- ![[截屏2022-05-10 18.24.24.png]]
+- what did the reviwer's say? 
+- 要点
+	- ![[截屏2022-05-10 18.32.29.png]]
+	- from：[[An Introduction to Systematic Review and Meta-analysis: Everything you need to know in 59 minutes - YouTube](https://www.youtube.com/watch?v=aG7jvwDNXtk&t=289s)]
+		- [x] 2022.5.10
+
+
+

@@ -1,0 +1,31 @@
+- and again , i know they seem  very ambitious 
+	- please don't ...  your comments like...
+		- it's impossible  you can 
+		- i don't want to hear it 
+		- let me be a bit **delutional** 
+			- go big or go home the new goal i've set is ...
+			- that's why i ...
+- Hi welcome back to my channel.
+- for those who knew my name is...
+	- if you are returning welcome back
+		- so in today's vedio, i'm going to shareing how i actually plan on achieving my goals  this year  using a system which i recently **came across** called 12 week a year 
+		- So 12 week a year  is a concept  **slash system** that was created by sb  
+			- .... book yet as well  
+		- now i haven't fully read the book yet, i am working my way ...
+		- but i have listened to a lot ... and watched a lot of vedios and audios on this concept of 12 week a year 
+		- and ..... 
+		- the concept of ... is  to achive your 12 mothes  goals in a sapce of  12 weeeks 
+		- so that solgan of tag line is get more doing 12 weeks  than overdoing 12 months 
+		- the 12 weeks incorporate the porven disciplines  and principles of ... execution. 
+	- i really like the idea of working in 12 weeks cyclys or 12 week ...  because if think about a year equote 
+	- ......
+	- it make your goals feel so much  attenable  and in rich
+		- because you ... for a year to achieve your goals your ... 
+		- into 12 week cycles 
+			- so you reults... 
+	- and it also help you stay motivated on track what you  are doing 
+	- sometimes  set goals...for a year or 12 months
+	- we can maybe just follow ..a couple of months
+	- i didn't achieve anything i set to achieve
+	- now i have to ..12 months cycle again  and not achieve the goals again 
+	- so  

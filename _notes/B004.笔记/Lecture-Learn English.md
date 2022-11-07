@@ -1,0 +1,4 @@
+- [[Nancy Kanwisher - Human Cognitive Neuroscience ]]
+- [[A Lecture in Psychology ——Working Memory - Theories, Models, and Controversies]]
+- [History of Cognitive Neuroscience - YouTube](https://www.youtube.com/watch?v=LzsNpq9TpTA)
+- [Cognition Lecture 4 8 The Neurobiology of Working Memory - YouTube](https://www.youtube.com/watch?v=9lzbEb-7_NI)

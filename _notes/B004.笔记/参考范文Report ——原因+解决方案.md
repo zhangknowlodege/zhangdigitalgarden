@@ -1,0 +1,33 @@
+- 第一题
+	- 题目
+		- Task2： Fewer and fewer people choose to ride bicycles when going outside. What do you think are the causes? What can be done to encourage people to cycle?
+	- 题型：原因+解决方案
+	- 范文
+		- Owning a bicycle and using it frequently seems to be much less popular today.
+			- I believe that the growth in the size of cities and the advanced modern transport system are the main reasons for this. 
+				- The government should take steps to change this situation.
+		-  The first reason why riding bicycles is no longer popular is that cities have been growing bigger. 
+			- This means that the distance between home and destinations has become much farther. 
+				- If people keep the habit of cycling, then they will find it really time-consuming and energy-consuming. 
+					- When they finally get to the school or office, they will probably feel exhausted and can hardly concentrate on their work or study.
+		-   Another cause is that a greater variety of means of transport are available to daily commuters today. 
+			- In the past, riding a bicycle was the main choice for many people to go to work or for fun. 
+				- Today, however, people living in cities and towns can have a wider range of choices, including more bus lines, taxies and even the Uber service. 
+					- Any of these is more efficient and comfortable than cycling and therefore this traditional way of transport has been losing popularity.
+		-   It is undeniable that riding a bike is beneficial for both the individual and society, so measures should be taken to entice and encourage people to be more active in this choice. 
+			- Firstly, the government could build special lanes for cyclists, so that they can ride safely and quickly. 
+				- In addition, monetary rewards should be provided to people who ride their bicycles more often. 
+					- In this way, more people would have the incentive to use this old-fashioned way to commute.
+		-   In conclusion, the development of modern cities has led to a decreasing number of people traveling by bicycle. 
+			- I believe that measures mentioned above could effectively reverse this situation.
+- ## 第二题
+	- 题目
+		- A lot of young people do not know how to manage their money when graduating from high school. What do you think are the reasons? What can be done to teach them this important skill?
+	- 范文：这篇文章的两个原因写成了一个段落，因为各自展开比较少。为了保持段落平衡，合成一段比分开写更合理。
+		- Many young people are leaving school without a basic and vital understanding of how personal finances ought to be managed in the adult world. This lack of knowledge is due to a lack of life experience and limited education which can be solved in two simple ways.
+		- One main reason why so many young people are unable to manage their own finances upon finishing high school is that they have been living along with their parents for free. As a result, they have never needed to earn a salary or save their money in order to pay bills.
+			- Another cause is that schools do not factor personal financial management into their curriculum. Schools focus instead on classic subjects, such as maths, geography, history and languages, which means important life skills are not being taught. Both teachers and parents are failing to prepare young people for the real world.
+		- There are two options for solving young people’s inability to manage personal finances. 
+			- Firstly, parents should spend time with their children teaching them how money is earned, budgeted and used for either savings or expenses. One simple step could be for parents to start by teaching young children how to manage their pocket money and, as their child grows up, expand into more serious household expenses. 
+			- Secondly, schools should incorporate life skills into their curriculum for final year students. In this way, children will be able to learn in a supportive environment how their finances need to be budgeted and managed to avoid debt problems later in life.  
+		- In conclusion, young people lack financial management skills due to the negligence of parents and schools, which can only be solved if both take more responsibility for equipping school leavers with the right skills.

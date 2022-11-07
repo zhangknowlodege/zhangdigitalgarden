@@ -1,0 +1,135 @@
+# 题目（信号/标志）
+- 出现两类观点，然后 “Discuss and give your opinion ”
+-----
+# 结构
+- ## 三种情况
+	- ### 第一种，弱强 
+		- 判断方式：对于某个问题，有两派观点，很明显有一派更为有道理
+		- 提炼结构/写法
+			- #### 第一段：改写题目，并给出观点
+				- 写法一：
+					- It is quite common in many countries that….。
+						- Opinions are divided on how…。
+							- I believe…...(选择观点)。
+				- 写法二：
+					- The argument over whether A or B has not been settled yet.
+						- Whereas A好，B 更好。
+							- Ultimately, I thinkB is 更好。 
+				- 写法三：
+					- People have different views about whetherA or B.
+						- In my view, …….
+							- I trend towards the veiwpoint that …..
+			- #### 2.分析观点 一 
+				- 写法一：
+					- On the one hand, there has been a concern that……。 
+						- Thi is beacause ….。 
+							- What's more ,…..。
+								- This explains why …..
+				- 写法二：
+					- There are several advantages…
+						- Firstly,好处+解释 
+						- Secondly,好处+解释
+				- 内在结构：
+					- 从原题改写出建议TS→反向假设，引出后果→解释/举例→改写重复TS
+			- #### 3.分析观点二 
+				- 写法一：
+					- On the other hand, advocates of……. 
+						- 原因
+							- For example,….。
+			- #### 4.对比给出观点
+				- 写法一：
+					- Personally,my veiw is that while 弱有 好处，this usually lasts for a short period of time.
+						- 强, in the long run ，will 好处.
+				- 写法二：
+					- I believe that B好。
+						- Although A are important, B更好. 
+							- B有小问题, but so too does the real world and children must learn to navigate these on their own.
+		- [[参考范文（Discussion-弱强）]]
+		- 提炼思路：
+			- 题目：针对某一问题，存在两派观点，明显有一派更合乎常理
+			- 写作思路：
+				- 第一段：
+					- 当前存在一个...问题。
+						- 对于该问题有人说A，有人说B 
+							- 我认为说B
+				- 第二段：
+					- 介绍A的观点
+				- 第二段：
+					- 介绍B的观点
+				- 第四段：
+					- 总之，我认为B
+						- 虽然A好，但是长远来看还得B。
+	- ### 第二种，共存 
+		- 判断：
+			- 对于解决某个问题存在两派观点，两者可以共存从而解决某个问题
+		- 结构
+			- #### 1.第一段：改写题目，并给出观点
+				- 写法一：
+					- People have diffents views on …。
+						- I believe that As and B play equally important roles, so they should coexist in C .
+							- I believe that a combination of A andB is an ideal strategy of C 
+				- 写法二： 
+					- Most modern cities are faced with the dilemma of…….。 
+						- I believe that…..
+			- #### 2.分析观点一 ：
+			- #### 3.分析观点二 ：
+			- #### 4.总结+重复观点
+				- 写法一：
+					- People have differing views with regard to the question of how to _____.
+						- In my view, both punishments and a range of other measures can be used together to promote better driving habits
+				- 写法二：
+					- In my opinion, a wellplanned city should grow vertically with more tall buildings in central business districts, while providing citizens with more comfortable communities by limiting the height of their houses.
+						- In short, only by combining tall and short buildings can a city be developed in the best way. 
+		- [[参考范文（Discussion-共存）]]
+		- 提炼思路
+			- 第一段：
+				- 对于某个问题的解决目前存在两排观点
+				- 我认为解决该问题两派观点可以结合采纳
+			- 第二段：
+				- 论证A观点的合理性
+			- 第三段：
+				- 论证B观点的合理性
+			- 第四段：
+				- 总之，解决问题可以结合两派观点
+	- ### 第三种，取决于
+		- 判断：
+			- 对于某个问题存在两派观点，都有道理，但是某一派在某种条件下更有道理
+		- 结构
+			- #### 1.第一段：改写题目，并给出观点
+				- 1.paraphrase题目
+					- 2.In my opinion, I believethat A is essentia lfor某一层面 while B are more useful in 另一个层面 
+				- It is considered by some that being a university graduate is the key to securing a good job, while there are others who think that it is better to have experience and soft skills. 【paraphrase题目】
+					- In my opinion,I believe that having university education is essential for academic jobs while soft skills and experience are more useful in business.【个人观点】
+			- #### 2.分析观点一 
+				- 
+			- #### 3.分析观点二 
+				- 
+			- #### 4.详细解释个人观点 
+				- Finally, in my opinion, whether A or B depends on the position being applied for.
+					- Take for example law, medicine or teaching, it is impossible to be considered for a position without the required educational background.
+						- In contrast, in business, it would be more important for a candidate to have soft skills and experience in that line of business so they can step into a position without further training and be of immediate benefit to the company.
+				- Finally, in my opinion, Whether A or B depends on the _____.
+					- Take for example A. 
+						- In contraste , B. 
+			- #### 5.重复观点
+				- In conclusion, getting a good job requires a relevant background either in experience or education depending on the type of work and field. 
+					- People should make sure they attain the necessary skills or degrees before applying for a job in order to be sure of success.
+		- [[参考范文（Discussion-取决于）]]
+		- 思路提炼
+			- 第一段
+				- 对于某个问题存在
+			- 第二段
+				- 论证A观点的合理性
+			- 第三段
+				- 论证B观点的合理性
+			- 第四段
+				- 详细解释个人观点
+			- 第五段
+				- 重复观点
+- ## 开头段两种形式
+	- 第一种：
+		- 总结A/B的共同讨论点(模板句)+ 回答个人观点
+	- 第二种：
+		- 写出事实版
+			- 来自题目的事实或者观点A和B之间共通的事实+ 回答个人观点
+----

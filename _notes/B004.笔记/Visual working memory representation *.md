@@ -1,0 +1,101 @@
+# Visual working memory representation
+- # 概念
+- # 生物学基础
+	- 一类认为是感觉皮层
+	- 一类感觉是非感觉皮层
+- # 种类
+	- ## 静默态和活动态
+		- [[静默态工作记忆]]
+	- ## 视觉工作记忆的 continuous 与 categorical representation 
+		- ### 1.分类来源（[[2022_Zhou_Cognitive aging and _KEY-MDZW4A8K#^KEYFDPYPX5Q]]）
+			- 视觉信息可以以细节、具体的方式表征，也可以通过抽象、类别地表征（[[2015_Bae_Why some colors appe_KEY-9QXJLLBW]];[[2017_Hardman_Categorical working _KEY-ZPCUF2LP]]），
+				- 基于此，最近有学者提出了连续（continuous）与分类（categorical）表证两种方式（[[2022_Zhou_Cognitive aging and _KEY-MDZW4A8K]]）。
+			- 一种是detailed （continuous representation）
+			- 一种是abstract  （categorical representation）
+		- ### 2.比较/特点/差异
+			- 1.生物学基础不同
+				- categerical information被表征的在非感觉皮层，如paritel与frontal cortex；并且与个体特定分类的学习经验相关（[[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEY6PU9UM4N]]）
+				- <mark style="background: #ADCCFFA6;">这个涉及一个争论</mark>，就是视觉工作记忆存储的脑区
+					- 一些学者认为是感觉皮层（[[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEYQ5ARKAEQ]]）
+						- [[2017_Gayet_Visual working memor_KEY-A54QXR6S]]
+						- [[2009_Harrison_Decoding reveals the_KEY-6GX8X87X]]
+						- [[2020_Ester_Categorical biases i_KEY-42SZLM3D]]
+					- 一些学者认为非感觉皮层（[[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEYFTBQCGMR]]）
+						- [[2001_Freedman_Categorical represen_KEY-LBJGNX3W]]
+						- [[2015_Ester_Parietal and frontal_KEY-825Z49Q9]]
+						- [[2013_Lee_Goal-dependent disso_KEY-XJSECFKY]]
+					- 还有学者（[[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEYH92Q4JFJ]]）
+						- [[2017_Christophel_The distributed natu_KEY-T7X8EKAI]]
+					- 最近的发现（[[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEYXMM8UYDB]]）
+						- [[2015_Ester_Parietal and frontal_KEY-825Z49Q9]]
+						- [[2020_Ester_Categorical biases i_KEY-42SZLM3D]]
+			- 2.无关刺激/容量
+				- continuous
+					- 细节表征被认为是很脆弱的（容易被无关刺激干扰），而且是容量极为有限的，而类别表征则相反（[[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEYW2SGJ7YU]]）
+						- [[2011_Olivers_Different states in _KEY-2PBSR3P4]]
+			- 3.认知资源
+				- 相较于分类表征，连续表征耗费更多认知资源，[[2021_Zhou_Is categorization in_KEY-K9LD3IIK]]
+		- ### 3.什么因素在影响着不同的表证方式
+			- 1.工作记忆负荷(memory load)
+				- [[2022_Zhou_Categorical bias as _KEY-AVZEFEVV]]
+			- 2.间隔时间(retention interval)
+				-  [[2022_Zhou_Categorical bias as _KEY-AVZEFEVV]]
+			- 3.focus of attention([[2022_Zhou_Cognitive aging and _KEY-MDZW4A8K#^KEYWC38HZZX]])
+				- 有就是continuous
+				- 没有就是categorical
+				- [[2009_Harrison_Decoding reveals the_KEY-6GX8X87X]]
+				- [[2017_Foster_Alpha-band activity _KEY-UYUEFQSJ]]
+				- [[Visual working memory representation *]]
+			- 4.个体差异
+				- 老年人/老化（[[2022_Zhou_Cognitive aging and _KEY-MDZW4A8K#^KEYKIZ624TS]]）（[[2022_Zhou_Cognitive aging and _KEY-MDZW4A8K#^KEYQNKXTCRC]]）
+					- [[2021_Aziz_Role of aging and wo_KEY-8EB528TW]]
+					- [[2020_Põder_Crowding and attenti_KEY-26VPXCCV]]
+					- [[2020_Forsberg_Cognitive aging and _KEY-L7EJGKBL]]
+		- ### 4.区分方法
+			- [[mixture model]]
+- # 视觉工作记忆表征的生物学基础
+	- 关于工作记忆研究的一个经典且存在争论的问题就是：在延迟阶段，工作记忆表征的信息存储在哪里（[[2017_Christophel_The distributed natu_KEY-T7X8EKAI#^KEY8CBLYF6X]]）？
+		- 目前仍尚存存在争论
+			- 感觉皮层（视觉）
+				- 支持 [[Sensory recruitment]]假说
+					- [[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEYNSUFBTWS]]
+			- 非感觉皮层
+				- [[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEYHZMKNKY8]]
+					- 针叶
+					- 前额叶
+	- 最近越来越学者认为，灵长类动物和人类的视觉工作记忆表征信息的皮层是多方面，会受到表征信息等因素的影响（[[2017_Christophel_The distributed natu_KEY-T7X8EKAI#^KEY8PDZ9GQ7]]）。
+- # 表征信息的作用
+	- [[2021_Hallenbeck_Working memory repre_KEY-LY3ZPHNW]]
+	- [[2021_Kelvin Vu-Cheung_Spatial working memo_KEY-R63DNMD9]]
+- # 补充
+	- [[Sensory recruitment]] hypothesis
+		- [[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEYNSUFBTWS]]
+
+----
+# 文献整理
+- ## 种子文献
+	- [[2022_Zhou_Categorical bias as _KEY-AVZEFEVV]]
+		- [x] 2022-09-07
+	- [[2022_Zhou_Cognitive aging and _KEY-MDZW4A8K]]
+		- 2022-09-07
+	- [[2021_Zhou_Is categorization in_KEY-K9LD3IIK]]
+		- [x] 2022-09-07
+	- [ ] [[2020_Ester_Categorical biases i_KEY-42SZLM3D]]
+	- [[2016_Bettencourt_Decoding the content_KEY-YW6E4RQV]]
+		- 对其介绍（[[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEY75BYXB89]]）
+	- [[2019_Bae_What happens to an i_KEY-M39UURSX]]
+		- [[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEY75BYXB89]]
+	- [[2017_Hardman_Categorical working _KEY-ZPCUF2LP]]
+		- [[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEY3BVHXJ2X]]
+	- [[2015_Bae_Why some colors appe_KEY-9QXJLLBW]]
+		- [[2022_Zhou_Categorical bias as _KEY-AVZEFEVV#^KEYQHT3UZKA]]
+	- [[2017_Christophel_The distributed natu_KEY-T7X8EKAI]]
+		- [x] 2022-09-13
+			- 种子文献，对于工作记忆表征有很好地介绍
+	- [[2011_Olivers_Different states in _KEY-2PBSR3P4]]
+-----
+# 准备工作
+- ## 文献调研
+
+
+---

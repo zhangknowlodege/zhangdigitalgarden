@@ -1,0 +1,40 @@
+- ## 第3题
+	- 题目
+		- Some believe cities should build more high-rise buildings, while others say it is better for people’s life to restrict the height of buildings. Discuss both views and give your opinion.
+	- （共存）
+	- 范文
+		- Most modern cities are faced with the dilemma of using their limited land resources to build high-rise or low-rise buildings. 
+			- I believe that a combination of both is an ideal strategy for city planning.
+		- Increasing the number of high-rise buildings is beneficial to the development of cities in terms of economic growth and environmental improvements. 
+			- With regard to the former, as skyscrapers can significantly increase the space available for business and residence, a larger number of companies and employees can be well accommodated in cities, such as London or New York, which may contribute to more business activities and better economy. 
+				- The other benefit of an increasing number of tall buildings is that more open spaces can be saved for various public facilities, such as parks, squares, and sports facilities. 
+					- All of these contribute to improvements in citizens' living environment. 
+		- On the other hand, people in support of the government posing a limit on the height of buildings believe that living in such an environment has obvious advantages to their day-to-day life. 
+			- Firstly, if the community mainly consists of three or four-storey residential buildings, each household can enjoy more sunshine and better ventilation which contribute to lifting peoples' spirit and improving their health. 
+				- In addition, residents of low-rise buildings, which usually are not equipped with lifts, are forced to climb stairs on a daily basis. 
+					- As a result, a healthier lifestyle can be promoted and people are also more likely to meet their neighbours.
+		- In my opinion, a well-planned city should grow vertically with more tall buildings in central business districts, while providing citizens with more comfortable communities by limiting the height of their houses. 
+			- In short, only by combining tall and short buildings can a city be developed in the best way.
+- ## 第4题
+	- 题目
+		- Task 2
+			- Some people think that strict punishments for driving offences are the key to reducing traffic accidents.
+				- Others, however, believe that other measures would be more effective in improving road safety. 
+					- Discuss both these views and give your own opinion.
+	- 共存
+	- 范文
+		- People have differing views with regard to the question of how to make our roads safer. 
+			- In my view, both punishments and a range of other measures can be used together to promote better driving habits.
+		- On the one hand, strict punishments can certainly help to encourage people to drive more safely.
+			- Penalties for dangerous drivers can act as a deterrent, meaning that people avoid repeating the same offence. 
+				- There are various types of driving penalty, such as small fines, licence suspension, driver awareness courses, and even prison sentences.
+					- The aim of these punishments is to show dangerous drivers that their actions have negative consequences. 
+						- As a result, we would hope that drivers become more disciplined and alert, and that they follow the rules more carefully.
+		- On the other hand, (many people believe that) safe driving can be promoted in several different ways that do not punish drivers.
+			- Firstly, it is vitally important to educate people properly before they start to drive, and this could be done in schools or even as part of an extended or more difficult driving test. 
+				- Secondly, more attention could be paid to safe road design.
+					- For example, signs can be used to warn people, speed bumps and road bends can be added to calm traffic, and speed cameras can help to deter people from driving too quickly. 
+						- Finally, governments or local councils could reduce road accidents by investing in better public transport, which would mean that fewer people would need to travel by car.
+		- In my opinion, improving road safety should  use strict punishments ,while taking other measure ,such as  drivers' education 、traffic signs and better public transport.
+			- In short, only by combing strcict punishments and other effective measures  can be used together to reducetraffic accidents.
+				- 【自己写的】

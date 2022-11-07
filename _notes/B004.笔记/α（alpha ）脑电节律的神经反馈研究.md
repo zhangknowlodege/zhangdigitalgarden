@@ -1,0 +1,24 @@
+- 以往关于 α 脑电节律的研究发现，α 活动与人们的认知表现有着密切的联系， 它的振荡反映了最基本的认知过程之一，并在不同频率的大脑活动的联合中发挥 着关键作用(W. Klimesch, 2012)，高频 α 功率的增加会使得 θ 功率的降低(Wolfgang Klimesch, 1999)，而且 α 波段可能更容易为个体所操控(Jurewicz et al., 2018)。
+- 对高频α波段进行神经反馈训练，发现重度抑郁患者的工作记忆表现得到改善、处 理速度提高并且 α 功率增强(Escolano, Navarro-Gil, Garcia-Campayo, Congedo, et al., 2014)，轻度认知障碍患者的记忆表现得到改善并且维持了一定的时间(Lavy, Dwolatzky, Kaplan, Guez, & Todder, 2019)。不仅是非健康群体的认知表现得到改 善，而且对健康个体具有相同的作用。
+- 具体来说，健康个体在训练过程中增强了 高频 α 并使得认知任务执行过程中去同步化的增加(Escolano, Olivan, Lopez-delHoyo, Garcia-Campayo, & Minguez, 2012)，且在心理旋转和工作记忆任务中行为 得到改善(Escolano, Navarro-Gil, Garcia-Campayo, & Minguez, 2014)，高频 α 波段 的增加程度和认知能力的提升呈正相关(Hanslmayr et al., 2005)。
+- 同时，也有研究 者关注 α 脑电频率峰值(PAF)对个体认知能力的影响，它可能反映了一些一般的 认知能力，不一定是记忆或阅读，可能是反应控制或词汇习得能力(Angelakis,Lubar, & Stathopoulou, 2004)，对 PAF 进行反馈训练发现整个训练期间，PAF 呈 剂量性增加(Lavy et al., 2019)。
+- 此外，对 α 相对振幅的脑电训练研究发现，精神 分裂症患者在训练结束后的行为表现，包括短期记忆、情绪和说话模式都得到了 改善(Nan et al., 2017)。
+- α 波段可能更容易为个体所操控(Jurewicz et al., 2018)
+- Ankan Biswas 等人发现 α 节律的变化取决于很多因素，比如：α 的初始水平、 反馈模式（听觉和视觉）、听觉反馈中的音质/音色等(Biswas & Ray, 2017)。而关 注 α 节律的神经反馈训练不论是视觉反馈还是听觉反馈大多都旨在增强 α 脑电 活动，其研究结果发现反馈训练后的 α 节律、α 脑电活动或者是 α 振幅相较于训 练前都是明显增加的(Carlos Escolano, 2011; Dekker et al., 2014; Kober et al., 2017; Nan et al., 2012; Zoefel et al., 2011)；即使是关注增强 θ/α 比值(即增强 θ，降低 α) 的反馈训练，但就 α 单个频带而言，训练后的 α 活动相较于训练前是明显增加的 (Imperatori et al., 2017)，因此 α 节律的神经反馈方案是具有可行性的。
+- 具体来说，健康个体在训练过程中增强了 高频 α 并使得认知任务执行过程中去同步化的增加(Escolano, Olivan, Lopez-delHoyo, Garcia-Campayo, & Minguez, 2012)，且在心理旋转和工作记忆任务中行为 得到改善(Escolano, Navarro-Gil, Garcia-Campayo, & Minguez, 2014)，高频 α 波段 的增加程度和认知能力的提升呈正相关(Hanslmayr et al., 2005)。
+- 训练工作记忆现状
+	- 以往的脑电神经反馈研究中，学者们把增强 α 脑电活动作为目标以期改善个 体的认知表现和工作记忆，探讨了 α 神经反馈训练对工作记忆的影响，采用不同 实验范式来测量工作记忆的不同成分。研究大多采用广度任务来研究工作记忆容 量，有些研究者用倒向数字广度和操作广度任务对健康个体进行评估反馈训练效 果，发现个体的工作记忆和情景记忆的准确性有显著的提高且 α 训练组的 α 振幅和总持续时间明显递增(Hsueh, Chen, Chen, & Shaw, 2016)，此外另一个 α 训练 组的倒向数字广度测试结果显示个体正确率显著增加(Wei et al., 2017)。
+	- 而有研究 用概念广度任务以测量工作记忆的语义短时记忆(STM)成分，神经反馈组的语义 短期记忆任务得分较高，个体的高频 α 显著增强(Carlos Escolano, 2011)。
+	- 其他任 务如节奏性的听觉串行任务(PASAT)则是用来研究工作记忆的语音环路，结果发 现神经反馈训练使个体表现的更好，具有很强的学习效果(Escolano et al., 2012)。 
+	- 在增强 θ/α 比值的神经反馈训练中选用空间 2-back 任务，结果发现神经反馈组个 体的反应正确率较训练前大大提高，而反应时明显变短(Xiong et al., 2014)，这表 明个体工作记忆的中央执行系统的刷新功能得到明显的改善。
+	- 神经反馈训练不仅 对健康个体的工作记忆具有改善作用而且对病患的工作记忆有效，用节奏性的听 觉串行任务(PASAT)来评估重度抑郁患者的训练效果，结果显示个体的工作记忆 表现和处理速度有显著提升(Escolano, Navarro-Gil, Garcia-Campayo, Congedo, et al., 2014)，而中风后患者在神经反馈训练后，数字正向广度测试结果有改善，而 患者在评估 WM 的 CBTT 任务中也表现出数值上的改善(Kober et al., 2015)。
+	- 总体而言，以神经反馈训练改善病患和健康个体的工作记忆具有可行性，而且研究 者大多关注的是训练对个体工作记忆的单一成分或功能的影响，未曾整体考量
+	- 最近，基于随机对照组的一项元分析证实，alpha神经反馈训练可有效提高健康被试的工作记忆、情景记忆能力。（[[Yeh et al., 2021]]）。
+	- alpha波的活动在人类认知调控活动中起到了重要作用(Palva and Palva, 2007).
+		- Palva, S., and Palva, J. M. (2007). New vistas for alpha-frequency band oscillations. Trends Neurosci. 30, 150–158. doi: 10.1016/j.tins.2007.02.001
+	- The efficacy of alpha NFT on memory varies across studies. NFT of alpha activity exhibits significant enhancement of working memory (WM) (Zoefel et al., 2011; Nan et al., 2012)and/or episodic memory (EM) (Hsueh et al., 2016; Wei et al., 2017).
+	- resting alpha activity can predict a learning ability of an NFT (Wan et al., 2014).
+		- Zoefel, B., Huster, R. J., and Herrmann, C. S. (2011). Neurofeedback training of the upper alpha frequency band in EEG improves cognitive performance. Neuroimage 54, 1427–1431. doi: 10.1016/j.neuroimage.2010. 08.078
+		- Nan, W., Rodrigues, J. P., Ma, J., Qu, X., Wan, F., Mak, P. I., et al. (2012). Individual alpha neurofeedback training effect on short term memory. Int. J. Psychophysiol. 86, 83–87. doi: 10.1016/j.ijpsycho.2012.07.182
+		- Hsueh, J. J., Chen, T. S., Chen, J. J., and Shaw, F. Z. (2016). Neurofeedback training of EEG alpha rhythm enhances episodic and working memory. Hum. Brain Mapp. 37, 2662–2675. doi: 10.1002/hbm.23201
+		- Wei, T. Y., Chang, D. W., Liu, Y. D., Liu, C. W., Young, C. P., Liang, S. F., et al. (2017). Portable wireless neurofeedback system of EEG alpha rhythm enhances memory. Biomed. Eng. Online 16:128. doi: 10.1186/s12938-0170418-8
