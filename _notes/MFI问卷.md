@@ -1,5 +1,0 @@
-- 该量表常被用来评估个体主观精神疲劳水平
-- [[2003_Gentile_Validation of the Fr_KEY-N59UMLYQ]]
-- 参考 [[2021_Gergelyfi_Mental fatigue corre_KEY-CBL4FMZ9#^KEY8S3N5WF7]]
-- 每一道题都是李克特五分
-	- 得分越高，代表被试精神越疲劳

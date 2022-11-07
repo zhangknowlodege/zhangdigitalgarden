@@ -1,2 +1,0 @@
-- 参考
-	- [【第三方MN插件】Obsidian-Bridge（Markdown动态导出）——连接两个知识星球 #Ver.3.0.0 已获官方签名# - 插件与自动化 / 插件发布区｜允许不受限制地编辑更新主帖 - MarginNote 中文社区](https://bbs.marginnote.cn/t/topic/21235)

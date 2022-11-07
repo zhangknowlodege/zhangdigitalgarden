@@ -1,1 +1,0 @@
-- [(9) How to create a plugin for Obsidian - YouTube](https://www.youtube.com/watch?v=XaES2G3PVpg)

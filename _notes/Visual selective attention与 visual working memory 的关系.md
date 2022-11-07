@@ -1,9 +1,0 @@
-- # 关系一：视觉选择注意在工作记忆中的角色
-	- [[Visual working memory filtering efficiecy *]]   
-		- 视觉选择性注意在视觉工作记忆中的作用 
-			- 视觉工作记忆依赖于视觉选择注意/注意控制（ [[2006_Cowan_Visual working memor_KEY-5K7A5N5S]]）
-- # 关系二：工作记忆在视觉选择注意中的角色
-	- [[2001_de Fockert_The role of working _KEY-77956EAF]]
-- # 其他
-	- controversy
-		- [[2022_Balestrieri_Shared resources bet_KEY-BHYB55W5#^KEY36JPDZRV]]

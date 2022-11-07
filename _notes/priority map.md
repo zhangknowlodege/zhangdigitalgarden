@@ -1,5 +1,0 @@
-- 
-- # 参考文献
-	-  [[2020_Liesefeld_How visual working m_KEY-GVZJZMGJ#^KEYYW8CZ583]]
-	- [[2022_Di Bello_Prefrontal Control o_KEY-Z5MWUPL4#^KEYAAQBH2EN]]
-	- [[2019_Bisley_The neural instantia_KEY-AJDDFIGW]]

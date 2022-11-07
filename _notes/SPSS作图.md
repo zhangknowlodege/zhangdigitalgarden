@@ -1,2 +1,0 @@
-- 参考资料
-	- [22节SPSS作图教程，包教包会！ - 专栏课程 - 医咖会 (mediecogroup.com)](https://www.mediecogroup.com/zhuanlan/courses/8/)

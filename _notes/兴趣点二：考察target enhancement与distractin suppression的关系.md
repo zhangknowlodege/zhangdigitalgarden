@@ -1,5 +1,0 @@
-- “Future studies aiming to investigate the mechanisms of distractor suppression independently of target enhancement should similarly find ways to manipulate targets and distractors separately, and minimize the possibility that distractors are taken as task-relevant by participants. This will allow a clear attribution of behavioral and neural effects to either enhancement or suppression, providing an opportunity to advance theories of attentional selection, in particular whether, when, and how the mind suppresses distracting information.”——[[2022_Wöstmann_Ten simple rules to _KEY-J2C9LU2Y]]
-- target enhancement 就要考虑 表征相似性这个问题
-- 这个是一个核心问题
-	- “Separating suppression from upweighting, or enhancement, is an important issue for both studies of featural and spatial accounts of suppression (see also Rule 2).
-- 动态关系

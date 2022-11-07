@@ -1,8 +1,0 @@
-- 
-- 
-- 
-- 
-- 参考文献
-	- [[2020_Liesefeld_How visual working m_KEY-GVZJZMGJ#^KEYBTJULE9S]]
-	- [[1995_Desimone_Neural mechanisms of_KEY-AF57EHQW]]
-	- [[2017_Moore_Neural Mechanisms of_KEY-8ZZWPQ89]]

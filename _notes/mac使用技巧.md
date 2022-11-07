@@ -1,4 +1,0 @@
-- [一日一技 | 在 Mac 上输入 ⌘、⌥、⇧、⌃、⎋ 等特殊字符 - 少数派 (sspai.com)](https://sspai.com/post/36203)
-- [x] [管理MAC顶部菜单栏图标有妙招，超详细一看就会. - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/355792468)
-- [ ] 聚焦搜索技能
-	- [ ] [Mac 自带软件-聚焦搜索 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/139780048)

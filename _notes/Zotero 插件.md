@@ -1,7 +1,0 @@
-- zetero tag
-- [Zotero night](https://github.com/tefkah/zotero-night)
-	- 切换白天和黑夜
--  [[青柠学术插件学习]]
-- 合并重复条目
-	- 插件：Zotero Duplicates Merger
-		- 教程：[[Zotero]自动批量删除（合并）重复文献 - 哔哩哔哩 (bilibili.com)](https://www.bilibili.com/read/cv16419180)

@@ -1,4 +1,0 @@
-- [x] [[2018_Clear_Atomic Habits An Eas_KEY-N8UQPK42]]
-- [x] [[2016_Ericsson_Peak：secrets from th_KEY-64YNIM5H]]
-- [ ] [[2008_Gladwell_Outliers：the story o_KEY-WAY9HJIV]]
-- [ ] [[2020_Morgan Housel_The Psychology of Mo_KEY-BCDIYVG4]]

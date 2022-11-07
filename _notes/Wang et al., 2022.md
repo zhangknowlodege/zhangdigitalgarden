@@ -1,2 +1,0 @@
-- Wang, Z.-X., Su, R., Li, H., Dang, P., Zeng, T.-A., Chen, D.-M., Wu, J.-G., Zhang, D.-L., & Ma, H.-L. (2022). Changes in Hippocampus and Amygdala Volume with Hypoxic Stress Related to Cardiorespiratory Fitness under a High-Altitude Environment. _Brain Sciences_, _12_(3), 359.
-- [*跳转到Zotero阅读*](zotero://select/items/@Wangetal2022)

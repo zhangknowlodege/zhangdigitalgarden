@@ -1,1 +1,0 @@
- - Hünerli, D., Emek-Savaş, D. D., Çavuşoğlu, B., Çolakoğlu, B. D., Ada, E., & Yener, G. G. (2019). Mild cognitive impairment in Parkinson’s disease is associated with decreased P300 amplitude and reduced putamen volume. _Clinical Neurophysiology_, _130_(8), 1208-1217.

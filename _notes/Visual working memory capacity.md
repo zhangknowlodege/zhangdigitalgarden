@@ -1,2 +1,0 @@
-- slot-based  VS  resource-based  ([[2017_Christophel_The distributed natu_KEY-T7X8EKAI#^KEYDYMWH8AK]])
-- 

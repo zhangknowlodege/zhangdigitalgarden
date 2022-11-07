@@ -1,5 +1,0 @@
-- 注意抑制效应
-	- 影响因素
-		- ![[2021_张帆_基于干扰物特征的统计_KEY-WDUMUFY6#^KEY7U9NFDKJ]]
-		- 统计规则（statistical regularity）
-			- ![[2021_张帆_基于干扰物特征的统计_KEY-WDUMUFY6#^KEYAQBSWQBQ]]
