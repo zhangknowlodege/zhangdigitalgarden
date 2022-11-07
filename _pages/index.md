@@ -7,7 +7,7 @@ permalink: /
 
 # Hi,  welcome to zhangty's digital garden！
 
-##🌱 → 🌴
+## 🌱 → 🌴
 
 #### 🔍: https://zhangty.netlify.app
 
@@ -23,7 +23,7 @@ permalink: /
 	- 2023年
 - ## My work
 	- 论文
-		- 综述1：[[移居高海拔地区影响个体执行功能：低压低氧的作用.pdf]]
+		- 综述1：[[移居高海拔地区影响个体执行功能：低压低氧的作用.pdf]
 		- 综述2:  [[中国乡村儿童认知发展：特征、影响因素以及干预对策.pdf]]
 	- 报告
 		- 培训1
