@@ -5,9 +5,9 @@ id: home
 permalink: /
 ---
 
-#### Hi,  welcome to zhangty's digital garden！
+### Hi,  welcome to zhangty's digital garden！
 
-#####				🌱 → 🌴
+##				🌱 → 🌴
 	 			
 #####	  🔍: https://zhangty.netlify.app
 
