@@ -4,6 +4,10 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*This is Zhangty's personal digital garden.*
 
-Feel free to tell the world about what you love! 😍
+
+The reason  that  I created this website:
+	1. Show my work
+	2. Share what I've learned
+	3. A channel to get to know me
